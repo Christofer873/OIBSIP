@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Age,Gender,City,Category,Product,Quantity,Unit_Price,Total_Amount,Payment_Method
+ORD10001,2025-09-21,CUST1022,Vijay S,27.0,Male,Trichy,Electronics,Smartwatch,4,4984.11,19936.44,Net Banking
+ORD10002,2026-04-17,CUST1210,Rahul K,42.0,Male,Coimbatore,Beauty,Hair Dryer,4,1510.34,6041.36,Net Banking
+ORD10003,2026-05-09,CUST1113,Karthik R,22.0,Female,Thanjavur,Beauty,Skin Cream,3,638.97,1916.91,Upi
+ORD10004,2026-01-14,CUST1176,Divya M,21.0,Female,Madurai,Sports,Sports Shoes,2,3016.79,6033.58,Net Banking
+ORD10005,2025-04-27,CUST1125,Arun Kumar,44.0,Male,Salem,Beauty,Hair Dryer,4,1683.03,6732.12,Cash
+ORD10006,2026-08-04,CUST1227,Divya M,21.0,Male,Salem,Sports,Yoga Mat,2,710.81,1421.62,Upi
+ORD10007,2025-10-13,CUST1142,Vijay S,63.0,Male,Chennai,Home,Mixer,4,2937.83,11751.32,Net Banking
+ORD10008,2025-07-07,CUST1109,Ajay Kumar,58.0,Male,Thanjavur,Beauty,Skin Cream,1,714.79,714.79,Card
+ORD10009,2025-03-25,CUST1202,Arun Kumar,56.0,Female,Salem,Clothing,Jacket,4,2547.92,10191.68,Cash
+ORD10010,2026-04-14,CUST1127,Sneha P,19.0,Male,Coimbatore,Home,Chair,2,3456.86,6913.72,Upi
+ORD10011,2025-10-10,CUST1020,Meena R,45.0,Female,Trichy,Home,Chair,4,3568.5,14274.0,Cash
+ORD10012,2025-07-02,CUST1087,Rahul K,65.0,Male,Coimbatore,Electronics,Headphones,4,1546.64,6186.56,Card
+ORD10013,2025-05-21,CUST1214,Karthik R,62.0,Male,Madurai,Sports,Sports Shoes,1,2428.97,2428.97,Cash
+ORD10014,2026-04-16,CUST1103,Rahul K,38.0,Female,Coimbatore,Electronics,Headphones,3,1888.73,5666.19,Upi
+ORD10015,2025-02-24,CUST1175,Rahul K,52.0,Male,Thanjavur,Clothing,T-Shirt,1,746.7,746.7,Cash
+ORD10016,2026-02-22,CUST1042,Divya M,29.0,Male,Salem,Sports,Cricket Bat,3,2459.62,7378.86,Cash
+ORD10017,2025-02-22,CUST1085,Nisha T,35.0,Female,Madurai,Beauty,Face Wash,5,309.89,1549.45,Cash
+ORD10018,2026-08-05,CUST1066,Meena R,55.0,Male,Salem,Home,Lamp,4,975.26,3901.04,Card
+ORD10019,2026-06-26,CUST1177,Karthik R,52.0,Male,Salem,Electronics,Smartphone,3,17761.19,53283.57,Cash
+ORD10020,2026-05-29,CUST1124,Meena R,49.0,Male,Coimbatore,Home,Mixer,3,3448.18,10344.54,Cash
+ORD10021,2026-01-25,CUST1190,Rahul K,55.0,Male,Unknown,Electronics,Headphones,1,1575.6,1575.6,Card
+ORD10022,2025-03-28,CUST1044,Sneha P,56.0,Male,Coimbatore,Electronics,Laptop,4,45813.09,183252.36,Net Banking
+ORD10023,2025-07-28,CUST1074,Arun Kumar,25.0,Female,Madurai,Sports,Yoga Mat,3,770.46,2311.38,Card
+ORD10024,2025-02-19,CUST1168,Rahul K,39.0,Female,Chennai,Home,Cookware Set,1,2191.19,2191.19,Cash
+ORD10025,2025-06-10,CUST1137,Sneha P,58.0,Male,Coimbatore,Home,Lamp,5,854.52,4272.6,Upi
+ORD10026,2026-06-22,CUST1076,Sneha P,33.0,Male,Trichy,Clothing,Shirt,1,981.28,981.28,Cash
+ORD10027,2026-01-31,CUST1235,Meena R,33.0,Male,Trichy,Electronics,Laptop,2,55541.12,111082.24,Net Banking
+ORD10028,2025-01-23,CUST1137,Divya M,32.0,Female,Madurai,Sports,Cricket Bat,2,2541.14,5082.28,Net Banking
+ORD10029,2026-07-26,CUST1156,Sneha P,61.0,Male,Thanjavur,Sports,Football,2,843.55,1687.1,Net Banking
+ORD10030,2025-01-27,CUST1243,Nisha T,25.0,Female,Chennai,Electronics,Smartphone,3,17649.52,52948.56,Cash
+ORD10031,2026-06-21,CUST1118,Divya M,19.0,Female,Madurai,Sports,Sports Shoes,2,2815.84,5631.68,Cash
+ORD10032,2025-02-26,CUST1095,Karthik R,18.0,Female,Thanjavur,Home,Lamp,5,966.63,4833.15,Upi
+ORD10033,2026-05-14,CUST1187,Priya S,35.0,Female,Salem,Electronics,Smartphone,1,16127.74,16127.74,Net Banking
+ORD10034,2025-07-06,CUST1081,Nisha T,41.0,Female,Madurai,Electronics,Smartphone,2,19497.99,38995.98,Upi
+ORD10035,2025-05-18,CUST1005,Vijay S,64.0,Male,Coimbatore,Sports,Cricket Bat,1,2223.87,2223.87,Card
+ORD10036,2025-12-15,CUST1217,Ajay Kumar,19.0,Female,Chennai,Sports,Yoga Mat,4,682.45,2729.8,Cash
+ORD10037,2025-03-16,CUST1021,Divya M,64.0,Male,Chennai,Sports,Cricket Bat,3,2820.67,8462.01,Card
+ORD10038,2026-07-28,CUST1241,Nisha T,41.0,Male,Chennai,Home,Chair,2,3275.77,6551.54,Cash
+ORD10039,2025-03-05,CUST1188,Rahul K,18.0,Female,Chennai,Electronics,Headphones,5,1605.78,8028.9,Cash
+ORD10040,2026-04-28,CUST1159,Meena R,58.0,Male,Trichy,Electronics,Smartwatch,4,4455.97,17823.88,Upi
+ORD10041,2026-04-24,CUST1084,Sneha P,54.0,Female,Thanjavur,Clothing,Shirt,2,1011.77,2023.54,Net Banking
+ORD10042,2025-09-05,CUST1232,Rahul K,23.0,Female,Thanjavur,Beauty,Skin Cream,2,625.47,1250.94,Net Banking
+ORD10043,2025-05-29,CUST1249,Meena R,58.0,Female,Thanjavur,Clothing,Jeans,3,1473.6,4420.8,Upi
+ORD10044,2025-12-23,CUST1049,Ajay Kumar,33.0,Male,Thanjavur,Sports,Cricket Bat,3,2234.63,6703.89,Upi
+ORD10045,2025-04-10,CUST1145,Priya S,39.0,Male,Trichy,Sports,Sports Shoes,3,2619.16,7857.48,Upi
+ORD10046,2025-04-15,CUST1108,Sneha P,42.0,Female,Salem,Beauty,Perfume,1,1212.42,1212.42,Card
+ORD10047,2025-10-30,CUST1199,Ajay Kumar,43.0,Male,Madurai,Sports,Football,5,1001.25,5006.25,Upi
+ORD10048,2025-05-30,CUST1238,Rahul K,31.0,Male,Chennai,Sports,Cricket Bat,2,2553.42,5106.84,Card
+ORD10049,2025-03-03,CUST1027,Arun Kumar,37.0,Female,Salem,Sports,Yoga Mat,5,825.03,4125.15,Upi
+ORD10050,2026-06-26,CUST1081,Ajay Kumar,45.0,Female,Trichy,Sports,Sports Shoes,5,3202.84,16014.2,Cash
+ORD10051,2025-03-22,CUST1081,Sneha P,64.0,Female,Thanjavur,Beauty,Hair Dryer,4,1718.39,6873.56,Card
+ORD10052,2026-01-19,CUST1016,Priya S,38.0,Male,Chennai,Beauty,Face Wash,4,325.48,1301.92,Card
+ORD10053,2025-08-09,CUST1185,Divya M,38.0,Male,Coimbatore,Beauty,Perfume,2,1343.88,2687.76,Cash
+ORD10054,2026-07-24,CUST1214,Rahul K,54.0,Male,Madurai,Clothing,Jeans,4,1799.85,7199.4,Cash
+ORD10055,2026-01-27,CUST1139,Sneha P,54.0,Female,Chennai,Sports,Sports Shoes,3,3055.69,9167.07,Card
+ORD10056,2025-05-02,CUST1126,Ajay Kumar,62.0,Male,Thanjavur,Electronics,Headphones,1,1905.19,1905.19,Cash
+ORD10057,2026-03-12,CUST1131,Nisha T,52.0,Male,Thanjavur,Beauty,Perfume,4,1225.49,4901.96,Net Banking
+ORD10058,2025-12-23,CUST1250,Meena R,42.0,Female,Chennai,Electronics,Smartwatch,3,4881.54,14644.62,Card
+ORD10059,2025-02-27,CUST1042,Priya S,24.0,Female,Chennai,Beauty,Skin Cream,1,672.65,672.65,Cash
+ORD10060,2025-11-10,CUST1231,Meena R,42.0,Male,Coimbatore,Home,Lamp,4,971.26,3885.04,Cash
+ORD10061,2025-03-13,CUST1181,Unknown,41.0,Female,Salem,Electronics,Smartwatch,5,3983.09,19915.45,Card
+ORD10062,2026-02-07,CUST1185,Ajay Kumar,57.0,Female,Trichy,Sports,Sports Shoes,2,2660.26,5320.52,Card
+ORD10063,2025-07-08,CUST1241,Priya S,22.0,Female,Trichy,Beauty,Face Wash,3,314.05,942.15,Card
+ORD10064,2026-03-14,CUST1238,Nisha T,35.0,Female,Trichy,Beauty,Face Wash,1,355.56,355.56,Card
+ORD10065,2026-08-15,CUST1212,Nisha T,38.0,Male,Coimbatore,Electronics,Laptop,4,55397.06,221588.24,Net Banking
+ORD10066,2025-03-15,CUST1009,Vijay S,44.0,Male,Chennai,Sports,Yoga Mat,1,769.86,769.86,Card
+ORD10067,2025-06-27,CUST1079,Rahul K,18.0,Male,Trichy,Beauty,Hair Dryer,3,1678.86,5036.58,Upi
+ORD10068,2025-03-08,CUST1012,Ajay Kumar,50.0,Male,Salem,Beauty,Hair Dryer,3,1953.49,5860.47,Net Banking
+ORD10069,2026-08-23,CUST1035,Vijay S,47.0,Male,Salem,Electronics,Smartphone,4,18894.7,75578.8,Net Banking
+ORD10070,2025-05-25,CUST1214,Meena R,56.0,Male,Chennai,Sports,Cricket Bat,2,2232.27,4464.54,Net Banking
+ORD10071,2025-01-22,CUST1040,Arun Kumar,57.0,Female,Thanjavur,Clothing,Jacket,5,2384.56,11922.8,Net Banking
+ORD10072,2026-05-25,CUST1168,Unknown,64.0,Female,Chennai,Sports,Cricket Bat,2,2167.92,4335.84,Net Banking
+ORD10073,2026-05-18,CUST1115,Karthik R,23.0,Male,Salem,Sports,Yoga Mat,5,646.53,3232.65,Cash
+ORD10074,2026-01-14,CUST1113,Priya S,57.0,Female,Chennai,Home,Chair,3,3868.69,11606.07,Upi
+ORD10075,2026-03-02,CUST1188,Vijay S,42.0,Male,Chennai,Electronics,Laptop,1,59491.19,59491.19,Cash
+ORD10076,2026-06-15,CUST1103,Priya S,35.0,Male,Salem,Electronics,Smartphone,2,19131.72,38263.44,Upi
+ORD10077,2025-10-03,CUST1064,Vijay S,59.0,Female,Madurai,Clothing,Shirt,3,1193.75,3581.25,Upi
+ORD10078,2025-06-30,CUST1135,Vijay S,30.0,Female,Madurai,Clothing,Shirt,3,1125.75,3377.25,Net Banking
+ORD10079,2025-11-02,CUST1229,Rahul K,24.0,Male,Thanjavur,Electronics,Smartphone,3,17481.79,52445.37,Upi
+ORD10080,2025-07-02,CUST1197,Vijay S,37.0,Female,Thanjavur,Sports,Football,1,880.53,880.53,Card
+ORD10081,2025-05-11,CUST1151,Divya M,62.0,Male,Coimbatore,Electronics,Laptop,5,53377.58,266887.9,Card
+ORD10082,2025-05-16,CUST1088,Sneha P,46.0,Female,Trichy,Home,Lamp,1,919.56,919.56,Card
+ORD10083,2025-07-09,CUST1086,Sneha P,27.0,Male,Trichy,Home,Chair,4,3801.8,15207.2,Cash
+ORD10084,2025-11-04,CUST1140,Ajay Kumar,24.0,Female,Thanjavur,Home,Lamp,5,963.91,4819.55,Cash
+ORD10085,2026-04-25,CUST1130,Ajay Kumar,36.0,Male,Chennai,Beauty,Skin Cream,2,613.82,1227.64,Upi
+ORD10086,2026-05-21,CUST1020,Karthik R,45.0,Male,Madurai,Electronics,Smartphone,5,15600.07,78000.35,Upi
+ORD10087,2026-03-22,CUST1110,Ajay Kumar,51.0,Female,Madurai,Beauty,Face Wash,1,299.04,299.04,Card
+ORD10088,2025-12-27,CUST1128,Divya M,42.0,Female,Chennai,Beauty,Perfume,2,1240.26,2480.52,Net Banking
+ORD10089,2025-07-06,CUST1037,Meena R,54.0,Male,Thanjavur,Home,Cookware Set,3,2323.86,6971.58,Cash
+ORD10090,2025-05-06,CUST1117,Priya S,52.0,Male,Madurai,Clothing,T-Shirt,4,705.27,2821.08,Net Banking
+ORD10091,2025-11-30,CUST1201,Nisha T,49.0,Male,Trichy,Sports,Sports Shoes,5,3084.82,15424.1,Card
+ORD10092,2025-02-18,CUST1011,Rahul K,41.0,Male,Thanjavur,Sports,Football,2,968.94,1937.88,Upi
+ORD10093,2026-06-29,CUST1159,Karthik R,27.0,Male,Coimbatore,Clothing,T-Shirt,2,604.38,1208.76,Card
+ORD10094,2025-10-23,CUST1068,Karthik R,58.0,Female,Thanjavur,Sports,Yoga Mat,4,656.43,2625.72,Cash
+ORD10095,2026-02-07,CUST1154,Arun Kumar,52.0,Male,Salem,Home,Chair,3,3776.05,11328.15,Upi
+ORD10096,2026-05-22,CUST1133,Meena R,51.0,Female,Madurai,Sports,Football,5,895.29,4476.45,Unknown
+ORD10097,2025-12-19,CUST1097,Divya M,45.0,Male,Thanjavur,Home,Cookware Set,2,2431.18,4862.36,Cash
+ORD10098,2025-08-28,CUST1158,Vijay S,36.0,Male,Chennai,Home,Mixer,1,3600.64,3600.64,Card
+ORD10099,2025-01-15,CUST1173,Rahul K,38.0,Male,Chennai,Clothing,T-Shirt,2,789.77,1579.54,Cash
+ORD10100,2025-06-16,CUST1132,Vijay S,52.0,Female,Salem,Home,Mixer,3,3394.91,10184.73,Cash
+ORD10101,2026-04-02,CUST1129,Meena R,31.0,Female,Trichy,Sports,Football,5,1008.9,5044.5,Net Banking
+ORD10102,2025-03-10,CUST1203,Rahul K,49.0,Female,Thanjavur,Home,Cookware Set,1,2353.39,2353.39,Cash
+ORD10103,2026-08-14,CUST1206,Meena R,64.0,Female,Trichy,Home,Cookware Set,1,2060.23,2060.23,Card
+ORD10104,2025-01-25,CUST1241,Rahul K,60.0,Female,Thanjavur,Electronics,Smartphone,2,19497.65,38995.3,Card
+ORD10105,2025-09-04,CUST1163,Arun Kumar,28.0,Female,Trichy,Clothing,Shirt,2,1196.92,2393.84,Net Banking
+ORD10106,2026-05-09,CUST1014,Divya M,63.0,Male,Madurai,Clothing,Shirt,3,947.2,2841.6,Upi
+ORD10107,2026-03-04,CUST1003,Ajay Kumar,53.0,Female,Madurai,Sports,Yoga Mat,4,811.59,3246.36,Net Banking
+ORD10108,2025-05-21,CUST1059,Ajay Kumar,39.0,Male,Chennai,Clothing,T-Shirt,5,725.6,3628.0,Upi
+ORD10109,2025-01-18,CUST1175,Ajay Kumar,47.0,Female,Coimbatore,Clothing,Jacket,3,2717.14,8151.42,Upi
+ORD10110,2025-07-28,CUST1226,Karthik R,52.0,Female,Madurai,Home,Cookware Set,3,2433.21,7299.63,Card
+ORD10111,2026-06-16,CUST1170,Arun Kumar,50.0,Male,Madurai,Electronics,Laptop,3,47126.46,141379.38,Cash
+ORD10112,2026-08-23,CUST1194,Rahul K,43.0,Male,Chennai,Home,Cookware Set,3,2065.6,6196.8,Cash
+ORD10113,2026-02-25,CUST1016,Divya M,41.0,Female,Coimbatore,Electronics,Smartwatch,5,4628.54,23142.7,Card
+ORD10114,2025-08-08,CUST1088,Karthik R,44.0,Male,Coimbatore,Clothing,T-Shirt,1,609.11,609.11,Card
+ORD10115,2025-07-25,CUST1222,Nisha T,64.0,Female,Trichy,Sports,Yoga Mat,5,732.09,3660.45,Cash
+ORD10116,2026-06-23,CUST1141,Divya M,60.0,Female,Coimbatore,Sports,Football,2,828.48,1656.96,Cash
+ORD10117,2025-12-21,CUST1007,Karthik R,59.0,Male,Coimbatore,Sports,Yoga Mat,2,784.52,1569.04,Card
+ORD10118,2026-06-09,CUST1016,Unknown,30.0,Female,Trichy,Electronics,Smartphone,2,16829.53,33659.06,Net Banking
+ORD10119,2025-10-13,CUST1148,Vijay S,42.0,Female,Salem,Beauty,Face Wash,5,401.94,2009.7,Net Banking
+ORD10120,2025-04-22,CUST1080,Priya S,38.0,Female,Coimbatore,Clothing,Shirt,3,1120.52,3361.56,Net Banking
+ORD10121,2025-09-17,CUST1235,Nisha T,53.0,Male,Coimbatore,Beauty,Skin Cream,5,559.49,2797.45,Upi
+ORD10122,2025-02-09,CUST1066,Sneha P,55.0,Male,Chennai,Electronics,Smartphone,3,17757.64,53272.92,Upi
+ORD10123,2025-08-19,CUST1225,Vijay S,39.0,Male,Thanjavur,Sports,Cricket Bat,4,2170.4,8681.6,Card
+ORD10124,2025-09-07,CUST1073,Priya S,37.0,Female,Unknown,Home,Lamp,2,765.45,1530.9,Upi
+ORD10125,2025-10-21,CUST1103,Rahul K,44.0,Female,Madurai,Electronics,Headphones,2,1709.87,3419.74,Net Banking
+ORD10126,2025-07-13,CUST1229,Rahul K,59.0,Female,Madurai,Home,Lamp,2,830.47,1660.94,Upi
+ORD10127,2026-07-13,CUST1124,Rahul K,59.0,Female,Coimbatore,Beauty,Face Wash,2,302.6,605.2,Upi
+ORD10128,2025-03-24,CUST1023,Arun Kumar,62.0,Male,Salem,Beauty,Perfume,2,1575.91,3151.82,Upi
+ORD10129,2026-01-08,CUST1023,Sneha P,29.0,Female,Salem,Electronics,Smartphone,4,16604.85,66419.4,Net Banking
+ORD10130,2026-05-28,CUST1115,Priya S,61.0,Female,Thanjavur,Home,Mixer,2,3314.35,6628.7,Net Banking
+ORD10131,2026-07-06,CUST1243,Vijay S,61.0,Female,Chennai,Clothing,Jeans,2,1578.14,3156.28,Card
+ORD10132,2025-07-11,CUST1029,Vijay S,32.0,Male,Coimbatore,Beauty,Hair Dryer,1,1852.6,1852.6,Card
+ORD10133,2025-02-16,CUST1184,Divya M,42.0,Male,Salem,Beauty,Face Wash,5,300.63,1503.15,Upi
+ORD10134,2026-03-01,CUST1207,Divya M,23.0,Female,Chennai,Beauty,Skin Cream,5,696.52,3482.6,Cash
+ORD10135,2025-03-28,CUST1016,Priya S,56.0,Female,Chennai,Clothing,T-Shirt,4,740.55,2962.2,Net Banking
+ORD10136,2025-01-10,CUST1145,Sneha P,36.0,Male,Trichy,Clothing,T-Shirt,5,803.55,4017.75,Net Banking
+ORD10137,2025-11-18,CUST1046,Karthik R,52.0,Male,Madurai,Electronics,Smartwatch,3,4664.42,13993.26,Cash
+ORD10138,2026-02-03,CUST1048,Arun Kumar,20.0,Female,Chennai,Electronics,Laptop,2,57245.42,114490.84,Upi
+ORD10139,2025-06-02,CUST1047,Sneha P,43.0,Male,Salem,Sports,Sports Shoes,5,2893.05,14465.25,Cash
+ORD10140,2025-12-07,CUST1180,Nisha T,25.0,Male,Thanjavur,Home,Chair,4,3771.34,15085.36,Cash
+ORD10141,2026-04-23,CUST1108,Rahul K,63.0,Male,Salem,Sports,Cricket Bat,1,2515.17,2515.17,Net Banking
+ORD10142,2026-02-14,CUST1090,Nisha T,30.0,Male,Salem,Beauty,Face Wash,1,313.18,313.18,Upi
+ORD10143,2026-07-02,CUST1086,Rahul K,60.0,Female,Trichy,Sports,Sports Shoes,5,2558.2,12791.0,Net Banking
+ORD10144,2025-11-07,CUST1164,Unknown,43.0,Female,Thanjavur,Beauty,Face Wash,3,375.38,1126.14,Cash
+ORD10145,2026-06-27,CUST1216,Meena R,42.0,Male,Chennai,Home,Mixer,4,3550.95,14203.8,Upi
+ORD10146,2025-01-14,CUST1248,Divya M,56.0,Female,Thanjavur,Home,Chair,3,4003.19,12009.57,Net Banking
+ORD10147,2025-07-11,CUST1143,Sneha P,36.0,Male,Chennai,Beauty,Face Wash,4,361.42,1445.68,Cash
+ORD10148,2025-10-08,CUST1085,Divya M,35.0,Male,Salem,Home,Cookware Set,3,1999.85,5999.55,Upi
+ORD10149,2026-02-15,CUST1006,Nisha T,52.0,Male,Coimbatore,Clothing,T-Shirt,2,666.29,1332.58,Upi
+ORD10150,2026-06-13,CUST1120,Karthik R,64.0,Male,Madurai,Home,Cookware Set,3,2053.55,6160.65,Cash
+ORD10151,2025-06-05,CUST1003,Rahul K,22.0,Female,Coimbatore,Electronics,Laptop,3,44904.7,134714.1,Cash
+ORD10152,2025-03-08,CUST1034,Karthik R,33.0,Female,Coimbatore,Beauty,Face Wash,5,324.01,1620.05,Net Banking
+ORD10153,2026-08-14,CUST1089,Nisha T,46.0,Male,Chennai,Beauty,Hair Dryer,1,1946.01,1946.01,Upi
+ORD10154,2025-11-28,CUST1205,Ajay Kumar,53.0,Female,Madurai,Sports,Football,2,791.18,1582.36,Cash
+ORD10155,2025-06-01,CUST1027,Ajay Kumar,42.0,Female,Trichy,Home,Mixer,1,2873.9,2873.9,Cash
+ORD10156,2025-08-11,CUST1028,Unknown,19.0,Female,Chennai,Beauty,Face Wash,5,340.01,1700.05,Upi
+ORD10157,2025-03-14,CUST1182,Priya S,36.0,Male,Coimbatore,Beauty,Hair Dryer,3,1902.02,5706.06,Net Banking
+ORD10158,2025-09-06,CUST1047,Karthik R,60.0,Female,Chennai,Beauty,Perfume,4,1378.94,5515.76,Net Banking
+ORD10159,2025-07-23,CUST1180,Karthik R,33.0,Male,Coimbatore,Home,Cookware Set,4,2220.36,8881.44,Upi
+ORD10160,2026-06-17,CUST1083,Sneha P,31.0,Male,Madurai,Electronics,Smartwatch,1,4874.43,4874.43,Cash
+ORD10161,2025-09-18,CUST1090,Priya S,26.0,Female,Chennai,Clothing,Jacket,5,2490.67,12453.35,Card
+ORD10162,2025-04-09,CUST1240,Karthik R,25.0,Male,Thanjavur,Sports,Sports Shoes,1,2845.71,2845.71,Upi
+ORD10163,2026-07-05,CUST1229,Vijay S,21.0,Male,Thanjavur,Clothing,T-Shirt,1,662.52,662.52,Card
+ORD10164,2025-04-23,CUST1036,Ajay Kumar,57.0,Female,Madurai,Home,Chair,4,4013.03,16052.12,Card
+ORD10165,2026-07-07,CUST1140,Arun Kumar,62.0,Male,Chennai,Sports,Cricket Bat,5,2381.04,11905.2,Net Banking
+ORD10166,2026-03-27,CUST1207,Karthik R,28.0,Female,Trichy,Beauty,Skin Cream,1,707.26,707.26,Card
+ORD10167,2025-01-02,CUST1071,Karthik R,60.0,Male,Madurai,Clothing,Jacket,4,3214.43,12857.72,Card
+ORD10168,2025-04-02,CUST1125,Divya M,25.0,Female,Trichy,Beauty,Perfume,3,1455.56,4366.68,Card
+ORD10169,2025-10-04,CUST1165,Sneha P,21.0,Male,Trichy,Home,Chair,4,3667.95,14671.8,Net Banking
+ORD10170,2025-04-17,CUST1247,Ajay Kumar,46.0,Male,Thanjavur,Home,Lamp,3,948.09,2844.27,Card
+ORD10171,2026-03-26,CUST1114,Sneha P,54.0,Female,Coimbatore,Clothing,Shirt,4,1262.3,5049.2,Card
+ORD10172,2025-08-08,CUST1099,Rahul K,60.0,Female,Chennai,Clothing,Shirt,4,1178.71,4714.84,Cash
+ORD10173,2026-06-29,CUST1048,Vijay S,37.0,Male,Unknown,Home,Chair,4,3415.27,13661.08,Card
+ORD10174,2025-03-17,CUST1082,Vijay S,24.0,Female,Salem,Home,Lamp,2,789.77,1579.54,Cash
+ORD10175,2025-07-15,CUST1041,Meena R,63.0,Female,Salem,Clothing,T-Shirt,5,636.54,3182.7,Upi
+ORD10176,2025-03-19,CUST1192,Priya S,31.0,Male,Coimbatore,Sports,Yoga Mat,1,699.41,699.41,Cash
+ORD10177,2025-05-02,CUST1137,Meena R,54.0,Female,Trichy,Sports,Sports Shoes,4,2835.35,11341.4,Cash
+ORD10178,2026-01-11,CUST1180,Nisha T,42.0,Male,Madurai,Beauty,Face Wash,2,331.15,662.3,Cash
+ORD10179,2025-08-29,CUST1241,Vijay S,35.0,Male,Coimbatore,Home,Mixer,3,3560.1,10680.3,Net Banking
+ORD10180,2025-07-13,CUST1177,Rahul K,39.0,Female,Salem,Sports,Sports Shoes,2,2837.42,5674.84,Card
+ORD10181,2026-07-02,CUST1080,Ajay Kumar,62.0,Female,Chennai,Sports,Cricket Bat,3,2817.91,8453.73,Cash
+ORD10182,2026-04-03,CUST1157,Rahul K,51.0,Male,Trichy,Sports,Sports Shoes,2,2783.71,5567.42,Cash
+ORD10183,2025-06-04,CUST1091,Rahul K,31.0,Male,Trichy,Beauty,Face Wash,2,359.03,718.06,Net Banking
+ORD10184,2025-04-11,CUST1010,Divya M,39.0,Female,Chennai,Clothing,Shirt,3,937.48,2812.44,Net Banking
+ORD10185,2026-04-10,CUST1029,Divya M,39.0,Female,Coimbatore,Clothing,T-Shirt,4,619.3,2477.2,Upi
+ORD10186,2025-09-11,CUST1220,Nisha T,31.0,Female,Trichy,Sports,Cricket Bat,1,2589.75,2589.75,Upi
+ORD10187,2026-04-20,CUST1120,Ajay Kumar,28.0,Female,Madurai,Sports,Cricket Bat,3,2327.97,6983.91,Upi
+ORD10188,2025-04-16,CUST1127,Sneha P,29.0,Female,Coimbatore,Beauty,Hair Dryer,3,1660.98,4982.94,Cash
+ORD10189,2026-08-19,CUST1008,Sneha P,23.0,Male,Salem,Beauty,Skin Cream,1,747.39,747.39,Cash
+ORD10190,2025-07-10,CUST1045,Rahul K,28.0,Male,Madurai,Electronics,Smartwatch,2,4447.63,8895.26,Cash
+ORD10191,2026-04-18,CUST1227,Ajay Kumar,62.0,Male,Madurai,Beauty,Face Wash,2,384.87,769.74,Card
+ORD10192,2026-04-26,CUST1056,Ajay Kumar,30.0,Male,Trichy,Clothing,Jacket,4,2792.66,11170.64,Net Banking
+ORD10193,2025-04-03,CUST1071,Arun Kumar,42.0,Male,Coimbatore,Sports,Cricket Bat,2,2525.38,5050.76,Upi
+ORD10194,2026-04-10,CUST1085,Vijay S,53.0,Female,Madurai,Electronics,Laptop,5,44743.48,223717.4,Upi
+ORD10195,2026-06-01,CUST1139,Sneha P,39.0,Female,Chennai,Electronics,Smartphone,1,19744.87,19744.87,Upi
+ORD10196,2026-03-19,CUST1082,Meena R,27.0,Female,Trichy,Home,Lamp,3,834.51,2503.53,Net Banking
+ORD10197,2025-08-09,CUST1157,Karthik R,49.0,Female,Thanjavur,Beauty,Face Wash,2,320.51,641.02,Upi
+ORD10198,2025-04-16,CUST1011,Ajay Kumar,20.0,Male,Salem,Beauty,Perfume,2,1263.65,2527.3,Net Banking
+ORD10199,2026-01-28,CUST1230,Divya M,26.0,Female,Thanjavur,Sports,Cricket Bat,5,2461.55,12307.75,Net Banking
+ORD10200,2025-04-26,CUST1119,Vijay S,42.0,Male,Coimbatore,Sports,Sports Shoes,3,2565.47,7696.41,Cash
+ORD10201,2025-11-27,CUST1093,Meena R,40.0,Male,Trichy,Electronics,Headphones,4,1977.42,7909.68,Upi
+ORD10202,2025-10-19,CUST1073,Rahul K,30.0,Female,Chennai,Sports,Yoga Mat,2,696.04,1392.08,Net Banking
+ORD10203,2025-08-20,CUST1034,Sneha P,25.0,Male,Madurai,Clothing,Jacket,1,2607.39,2607.39,Cash
+ORD10204,2025-02-09,CUST1003,Karthik R,46.0,Female,Salem,Beauty,Skin Cream,5,552.71,2763.55,Cash
+ORD10205,2026-06-19,CUST1208,Rahul K,58.0,Female,Madurai,Beauty,Perfume,5,1387.38,6936.9,Upi
+ORD10206,2025-12-18,CUST1076,Vijay S,19.0,Male,Thanjavur,Clothing,T-Shirt,3,636.05,1908.15,Upi
+ORD10207,2025-09-11,CUST1020,Priya S,49.0,Female,Coimbatore,Home,Mixer,1,2889.09,2889.09,Card
+ORD10208,2025-02-03,CUST1086,Karthik R,62.0,Female,Madurai,Clothing,Jeans,2,1531.54,3063.08,Upi
+ORD10209,2026-07-12,CUST1189,Priya S,20.0,Male,Madurai,Sports,Sports Shoes,1,2463.86,2463.86,Cash
+ORD10210,2026-05-27,CUST1026,Ajay Kumar,51.0,Female,Chennai,Home,Mixer,1,3444.1,3444.1,Net Banking
+ORD10211,2025-08-29,CUST1118,Nisha T,22.0,Female,Thanjavur,Home,Mixer,2,3030.98,6061.96,Net Banking
+ORD10212,2026-08-11,CUST1133,Rahul K,31.0,Female,Thanjavur,Sports,Cricket Bat,5,2498.98,12494.9,Card
+ORD10213,2025-12-17,CUST1164,Divya M,28.0,Male,Thanjavur,Sports,Football,4,799.57,3198.28,Upi
+ORD10214,2025-12-20,CUST1167,Rahul K,39.0,Male,Salem,Beauty,Hair Dryer,1,1627.92,1627.92,Cash
+ORD10215,2026-07-14,CUST1194,Divya M,31.0,Male,Thanjavur,Clothing,Shirt,5,1064.19,5320.95,Cash
+ORD10216,2026-01-31,CUST1093,Divya M,64.0,Male,Chennai,Clothing,Jeans,2,1626.11,3252.22,Card
+ORD10217,2025-04-10,CUST1243,Divya M,59.0,Male,Salem,Home,Mixer,2,3414.19,6828.38,Cash
+ORD10218,2025-06-04,CUST1243,Nisha T,26.0,Female,Chennai,Beauty,Hair Dryer,3,1866.66,5599.98,Cash
+ORD10219,2026-07-22,CUST1026,Nisha T,62.0,Male,Thanjavur,Sports,Cricket Bat,4,2419.36,9677.44,Upi
+ORD10220,2026-02-13,CUST1021,Arun Kumar,34.0,Female,Chennai,Beauty,Perfume,5,1426.32,7131.6,Net Banking
+ORD10221,2025-10-07,CUST1142,Meena R,62.0,Male,Thanjavur,Clothing,Jeans,2,1362.63,2725.26,Net Banking
+ORD10222,2025-12-06,CUST1169,Priya S,38.0,Female,Chennai,Sports,Football,5,837.99,4189.95,Card
+ORD10223,2026-08-03,CUST1198,Ajay Kumar,58.0,Male,Thanjavur,Clothing,Jacket,2,3189.41,6378.82,Cash
+ORD10224,2025-08-13,CUST1098,Ajay Kumar,42.0,Male,Coimbatore,Sports,Sports Shoes,3,2464.93,7394.79,Cash
+ORD10225,2025-12-31,CUST1234,Divya M,24.0,Male,Chennai,Beauty,Hair Dryer,4,1661.74,6646.96,Upi
+ORD10226,2026-05-18,CUST1177,Divya M,53.0,Female,Chennai,Sports,Sports Shoes,2,2618.89,5237.78,Upi
+ORD10227,2025-10-06,CUST1145,Priya S,48.0,Male,Chennai,Sports,Yoga Mat,3,792.78,2378.34,Card
+ORD10228,2025-01-25,CUST1241,Sneha P,62.0,Male,Madurai,Beauty,Skin Cream,1,642.54,642.54,Upi
+ORD10229,2025-07-26,CUST1129,Nisha T,27.0,Male,Coimbatore,Home,Mixer,3,2812.94,8438.82,Net Banking
+ORD10230,2025-02-18,CUST1248,Ajay Kumar,60.0,Female,Madurai,Home,Cookware Set,2,2300.1,4600.2,Card
+ORD10231,2025-01-22,CUST1093,Nisha T,40.0,Female,Trichy,Electronics,Laptop,2,52539.77,105079.54,Upi
+ORD10232,2025-07-01,CUST1098,Arun Kumar,32.0,Female,Salem,Clothing,Jacket,3,3138.51,9415.53,Net Banking
+ORD10233,2025-02-05,CUST1235,Priya S,52.0,Female,Chennai,Sports,Cricket Bat,2,2751.03,5502.06,Net Banking
+ORD10234,2025-08-27,CUST1248,Arun Kumar,26.0,Female,Coimbatore,Sports,Yoga Mat,4,737.63,2950.52,Card
+ORD10235,2025-06-21,CUST1050,Arun Kumar,50.0,Female,Chennai,Beauty,Perfume,3,1595.04,4785.12,Cash
+ORD10236,2026-08-09,CUST1091,Nisha T,48.0,Male,Thanjavur,Home,Cookware Set,1,2425.82,2425.82,Net Banking
+ORD10237,2025-11-23,CUST1054,Nisha T,39.0,Female,Salem,Clothing,Jacket,2,3135.09,6270.18,Card
+ORD10238,2025-08-20,CUST1049,Divya M,23.0,Male,Salem,Home,Lamp,5,862.63,4313.15,Upi
+ORD10239,2025-09-25,CUST1209,Vijay S,22.0,Male,Coimbatore,Home,Cookware Set,4,2484.25,9937.0,Upi
+ORD10240,2026-08-09,CUST1096,Sneha P,49.0,Female,Thanjavur,Sports,Cricket Bat,2,2289.03,4578.06,Card
+ORD10241,2025-01-30,CUST1234,Arun Kumar,25.0,Male,Chennai,Electronics,Smartphone,3,16129.45,48388.35,Cash
+ORD10242,2025-11-19,CUST1200,Karthik R,42.0,Female,Thanjavur,Clothing,Shirt,2,1141.58,2283.16,Cash
+ORD10243,2026-07-24,CUST1029,Arun Kumar,40.0,Male,Madurai,Beauty,Hair Dryer,4,1622.43,6489.72,Card
+ORD10244,2025-08-15,CUST1031,Sneha P,38.0,Male,Trichy,Beauty,Hair Dryer,5,1838.09,9190.45,Card
+ORD10245,2026-02-08,CUST1202,Karthik R,54.0,Female,Thanjavur,Electronics,Headphones,1,1764.77,1764.77,Upi
+ORD10246,2025-04-23,CUST1148,Rahul K,43.0,Female,Chennai,Beauty,Hair Dryer,4,1499.73,5998.92,Cash
+ORD10247,2026-08-20,CUST1129,Rahul K,62.0,Male,Thanjavur,Sports,Football,2,896.3,1792.6,Upi
+ORD10248,2025-05-17,CUST1153,Arun Kumar,46.0,Female,Chennai,Beauty,Skin Cream,2,676.83,1353.66,Card
+ORD10249,2025-10-13,CUST1201,Ajay Kumar,52.0,Female,Salem,Home,Cookware Set,2,1909.82,3819.64,Net Banking
+ORD10250,2026-01-18,CUST1193,Vijay S,32.0,Male,Madurai,Sports,Football,3,996.18,2988.54,Cash
+ORD10251,2026-07-31,CUST1150,Rahul K,48.0,Female,Madurai,Beauty,Skin Cream,5,624.83,3124.15,Cash
+ORD10252,2025-10-03,CUST1150,Meena R,34.0,Male,Madurai,Electronics,Headphones,3,1646.37,4939.11,Upi
+ORD10253,2026-03-25,CUST1184,Karthik R,45.0,Male,Chennai,Clothing,Jacket,1,3131.54,3131.54,Net Banking
+ORD10254,2025-04-29,CUST1083,Sneha P,27.0,Female,Salem,Sports,Cricket Bat,2,2343.5,4687.0,Net Banking
+ORD10255,2025-04-16,CUST1197,Rahul K,56.0,Male,Madurai,Electronics,Headphones,5,1723.15,8615.75,Card
+ORD10256,2025-03-18,CUST1208,Meena R,25.0,Male,Madurai,Clothing,Jeans,2,1624.12,3248.24,Card
+ORD10257,2026-03-25,CUST1052,Rahul K,39.0,Female,Chennai,Clothing,Shirt,3,1203.97,3611.91,Upi
+ORD10258,2025-04-16,CUST1086,Divya M,52.0,Male,Thanjavur,Clothing,Jeans,1,1584.39,1584.39,Net Banking
+ORD10259,2025-06-13,CUST1004,Rahul K,51.0,Male,Thanjavur,Electronics,Laptop,1,46241.89,46241.89,Card
+ORD10260,2026-04-03,CUST1092,Rahul K,48.0,Female,Chennai,Sports,Cricket Bat,3,2822.5,8467.5,Net Banking
+ORD10261,2026-01-04,CUST1209,Nisha T,42.0,Female,Madurai,Beauty,Hair Dryer,3,1898.79,5696.37,Card
+ORD10262,2025-01-10,CUST1118,Rahul K,41.0,Male,Madurai,Beauty,Perfume,4,1390.42,5561.68,Cash
+ORD10263,2026-05-17,CUST1179,Karthik R,27.0,Female,Chennai,Beauty,Skin Cream,4,573.69,2294.76,Net Banking
+ORD10264,2026-06-08,CUST1041,Divya M,24.0,Male,Salem,Beauty,Hair Dryer,4,1898.85,7595.4,Card
+ORD10265,2026-07-18,CUST1249,Sneha P,47.0,Male,Coimbatore,Sports,Yoga Mat,4,715.04,2860.16,Upi
+ORD10266,2025-02-04,CUST1192,Rahul K,20.0,Female,Chennai,Clothing,T-Shirt,4,794.35,3177.4,Cash
+ORD10267,2025-04-16,CUST1245,Karthik R,62.0,Female,Salem,Beauty,Perfume,4,1531.04,6124.16,Upi
+ORD10268,2026-05-04,CUST1241,Karthik R,34.0,Female,Trichy,Clothing,Jacket,5,2577.62,12888.1,Card
+ORD10269,2025-09-17,CUST1194,Meena R,47.0,Female,Trichy,Electronics,Laptop,5,48147.34,240736.7,Card
+ORD10270,2025-05-08,CUST1143,Sneha P,35.0,Female,Thanjavur,Beauty,Hair Dryer,5,1447.2,7236.0,Upi
+ORD10271,2025-11-08,CUST1192,Arun Kumar,24.0,Male,Madurai,Clothing,T-Shirt,5,765.09,3825.45,Cash
+ORD10272,2025-04-24,CUST1142,Rahul K,38.0,Male,Salem,Electronics,Laptop,2,47249.73,94499.46,Net Banking
+ORD10273,2026-02-19,CUST1042,Rahul K,49.0,Male,Coimbatore,Home,Chair,4,4007.14,16028.56,Net Banking
+ORD10274,2026-03-14,CUST1243,Arun Kumar,37.0,Male,Unknown,Electronics,Smartphone,5,19374.69,96873.45,Upi
+ORD10275,2025-10-06,CUST1049,Meena R,28.0,Female,Trichy,Electronics,Smartphone,3,16862.92,50588.76,Net Banking
+ORD10276,2025-06-14,CUST1069,Priya S,19.0,Female,Trichy,Beauty,Face Wash,4,324.25,1297.0,Card
+ORD10277,2026-05-24,CUST1064,Arun Kumar,22.0,Male,Salem,Sports,Cricket Bat,3,2424.4,7273.2,Cash
+ORD10278,2025-05-07,CUST1154,Ajay Kumar,29.0,Female,Chennai,Home,Cookware Set,1,2475.48,2475.48,Upi
+ORD10279,2026-06-05,CUST1025,Vijay S,43.0,Female,Coimbatore,Home,Mixer,5,3013.57,15067.85,Upi
+ORD10280,2026-07-18,CUST1244,Rahul K,20.0,Female,Coimbatore,Electronics,Smartwatch,1,4808.31,4808.31,Cash
+ORD10281,2026-05-08,CUST1156,Karthik R,38.0,Male,Thanjavur,Sports,Yoga Mat,1,806.1,806.1,Upi
+ORD10282,2025-10-31,CUST1215,Divya M,57.0,Female,Thanjavur,Clothing,Jacket,4,2869.42,11477.68,Net Banking
+ORD10283,2026-03-18,CUST1064,Sneha P,56.0,Male,Madurai,Beauty,Perfume,4,1474.75,5899.0,Net Banking
+ORD10284,2026-03-10,CUST1040,Nisha T,36.0,Male,Madurai,Home,Cookware Set,1,2475.79,2475.79,Cash
+ORD10285,2026-08-15,CUST1150,Rahul K,47.0,Female,Unknown,Beauty,Face Wash,1,307.35,307.35,Card
+ORD10286,2025-08-18,CUST1121,Ajay Kumar,55.0,Male,Coimbatore,Home,Cookware Set,4,2516.79,10067.16,Net Banking
+ORD10287,2025-12-30,CUST1234,Ajay Kumar,63.0,Male,Madurai,Clothing,Jeans,2,1676.07,3352.14,Upi
+ORD10288,2025-12-05,CUST1119,Arun Kumar,39.0,Male,Salem,Sports,Yoga Mat,2,749.01,1498.02,Net Banking
+ORD10289,2025-08-26,CUST1217,Arun Kumar,42.0,Female,Trichy,Beauty,Perfume,5,1586.96,7934.8,Card
+ORD10290,2026-03-24,CUST1075,Karthik R,44.0,Female,Madurai,Home,Cookware Set,2,2454.57,4909.14,Net Banking
+ORD10291,2025-05-19,CUST1086,Nisha T,39.0,Female,Chennai,Beauty,Perfume,4,1201.42,4805.68,Cash
+ORD10292,2025-11-15,CUST1031,Rahul K,20.0,Female,Coimbatore,Clothing,Jacket,5,2779.95,13899.75,Upi
+ORD10293,2026-05-03,CUST1243,Sneha P,24.0,Male,Coimbatore,Electronics,Smartwatch,5,4296.91,21484.55,Net Banking
+ORD10294,2026-07-08,CUST1207,Priya S,31.0,Male,Chennai,Electronics,Smartwatch,4,4273.42,17093.68,Upi
+ORD10295,2025-02-12,CUST1022,Arun Kumar,19.0,Male,Trichy,Electronics,Smartphone,2,20645.04,41290.08,Net Banking
+ORD10296,2026-04-10,CUST1103,Ajay Kumar,32.0,Female,Madurai,Beauty,Skin Cream,1,675.53,675.53,Cash
+ORD10297,2025-09-26,CUST1042,Rahul K,21.0,Male,Madurai,Sports,Yoga Mat,3,715.36,2146.08,Net Banking
+ORD10298,2025-04-03,CUST1200,Ajay Kumar,51.0,Male,Thanjavur,Beauty,Face Wash,3,323.37,970.11,Cash
+ORD10299,2025-02-16,CUST1052,Divya M,54.0,Male,Madurai,Beauty,Hair Dryer,5,1835.16,9175.8,Cash
+ORD10300,2025-06-27,CUST1063,Karthik R,34.0,Female,Coimbatore,Beauty,Hair Dryer,1,1735.11,1735.11,Cash
+ORD10301,2026-01-10,CUST1082,Vijay S,47.0,Female,Trichy,Home,Chair,1,3116.83,3116.83,Cash
+ORD10302,2025-09-26,CUST1109,Arun Kumar,65.0,Male,Coimbatore,Beauty,Perfume,4,1361.79,5447.16,Card
+ORD10303,2025-05-23,CUST1116,Sneha P,19.0,Female,Thanjavur,Sports,Yoga Mat,4,824.19,3296.76,Card
+ORD10304,2026-01-07,CUST1233,Rahul K,64.0,Female,Trichy,Home,Lamp,1,1015.55,1015.55,Cash
+ORD10305,2025-02-13,CUST1168,Rahul K,42.0,Female,Madurai,Sports,Yoga Mat,1,753.53,753.53,Card
+ORD10306,2026-08-01,CUST1148,Priya S,38.0,Male,Chennai,Home,Lamp,5,886.66,4433.3,Upi
+ORD10307,2025-09-17,CUST1135,Meena R,52.0,Male,Coimbatore,Home,Mixer,4,3458.47,13833.88,Cash
+ORD10308,2026-07-19,CUST1101,Vijay S,27.0,Male,Coimbatore,Sports,Cricket Bat,1,2250.52,2250.52,Cash
+ORD10309,2026-04-01,CUST1063,Nisha T,63.0,Female,Chennai,Clothing,Jeans,2,1470.73,2941.46,Net Banking
+ORD10310,2026-08-23,CUST1182,Karthik R,34.0,Male,Salem,Home,Cookware Set,2,2017.8,4035.6,Card
+ORD10311,2026-08-20,CUST1028,Sneha P,34.0,Female,Salem,Beauty,Skin Cream,4,745.6,2982.4,Net Banking
+ORD10312,2025-05-03,CUST1168,Ajay Kumar,28.0,Male,Thanjavur,Home,Cookware Set,2,2218.84,4437.68,Card
+ORD10313,2026-08-15,CUST1146,Meena R,64.0,Male,Chennai,Clothing,Shirt,3,1234.02,3702.06,Card
+ORD10314,2025-12-03,CUST1144,Vijay S,37.0,Male,Salem,Beauty,Skin Cream,1,651.07,651.07,Cash
+ORD10315,2025-07-18,CUST1108,Priya S,43.0,Female,Thanjavur,Sports,Football,3,799.35,2398.05,Card
+ORD10316,2026-04-01,CUST1045,Arun Kumar,64.0,Male,Chennai,Electronics,Smartphone,1,18291.5,18291.5,Upi
+ORD10317,2025-06-15,CUST1003,Arun Kumar,62.0,Female,Salem,Clothing,Jacket,5,2434.56,12172.8,Upi
+ORD10318,2025-04-04,CUST1058,Rahul K,50.0,Male,Madurai,Electronics,Smartwatch,1,4643.86,4643.86,Unknown
+ORD10319,2026-06-20,CUST1138,Priya S,46.0,Female,Madurai,Home,Cookware Set,4,1877.27,7509.08,Cash
+ORD10320,2025-05-02,CUST1036,Meena R,27.0,Female,Thanjavur,Beauty,Perfume,5,1467.19,7335.95,Net Banking
+ORD10321,2025-06-30,CUST1193,Divya M,53.0,Male,Salem,Sports,Football,3,893.85,2681.55,Upi
+ORD10322,2026-03-03,CUST1082,Rahul K,44.0,Female,Coimbatore,Electronics,Laptop,3,44487.63,133462.89,Cash
+ORD10323,2026-05-02,CUST1012,Priya S,59.0,Male,Trichy,Beauty,Hair Dryer,3,1807.97,5423.91,Cash
+ORD10324,2025-01-26,CUST1144,Rahul K,25.0,Male,Chennai,Beauty,Perfume,1,1283.91,1283.91,Upi
+ORD10325,2026-07-10,CUST1153,Nisha T,43.0,Male,Coimbatore,Electronics,Smartwatch,3,4096.82,12290.46,Net Banking
+ORD10326,2025-01-08,CUST1179,Nisha T,27.0,Female,Coimbatore,Home,Cookware Set,3,2373.59,7120.77,Net Banking
+ORD10327,2025-02-16,CUST1016,Vijay S,63.0,Female,Madurai,Electronics,Headphones,4,1988.89,7955.56,Card
+ORD10328,2025-04-03,CUST1178,Arun Kumar,51.0,Female,Coimbatore,Beauty,Skin Cream,3,696.76,2090.28,Net Banking
+ORD10329,2025-11-02,CUST1232,Nisha T,24.0,Female,Chennai,Home,Lamp,4,849.3,3397.2,Card
+ORD10330,2025-05-12,CUST1149,Nisha T,43.0,Female,Chennai,Sports,Cricket Bat,2,2472.94,4945.88,Upi
+ORD10331,2025-08-15,CUST1197,Karthik R,46.0,Male,Madurai,Sports,Sports Shoes,4,3095.45,12381.8,Net Banking
+ORD10332,2026-02-20,CUST1136,Priya S,39.0,Male,Salem,Electronics,Laptop,1,59602.08,59602.08,Cash
+ORD10333,2025-02-12,CUST1189,Meena R,24.0,Male,Trichy,Sports,Football,2,893.33,1786.66,Card
+ORD10334,2025-11-09,CUST1009,Rahul K,56.0,Female,Coimbatore,Electronics,Smartwatch,4,4962.69,19850.76,Cash
+ORD10335,2026-06-16,CUST1071,Priya S,30.0,Male,Coimbatore,Electronics,Smartphone,2,17942.03,35884.06,Cash
+ORD10336,2025-06-21,CUST1053,Rahul K,51.0,Male,Trichy,Electronics,Smartphone,3,16054.85,48164.55,Cash
+ORD10337,2025-01-20,CUST1077,Divya M,33.0,Female,Salem,Clothing,Jeans,3,1654.91,4964.73,Upi
+ORD10338,2025-05-29,CUST1081,Divya M,54.0,Female,Chennai,Home,Mixer,3,3158.29,9474.87,Card
+ORD10339,2025-12-23,CUST1159,Sneha P,54.0,Male,Thanjavur,Sports,Yoga Mat,2,642.41,1284.82,Card
+ORD10340,2026-04-15,CUST1082,Arun Kumar,65.0,Female,Coimbatore,Beauty,Perfume,1,1585.81,1585.81,Net Banking
+ORD10341,2026-04-18,CUST1068,Nisha T,65.0,Female,Salem,Sports,Football,4,935.74,3742.96,Upi
+ORD10342,2025-11-25,CUST1199,Divya M,22.0,Female,Coimbatore,Clothing,Jeans,5,1430.44,7152.2,Upi
+ORD10343,2026-05-21,CUST1001,Rahul K,25.0,Female,Coimbatore,Electronics,Laptop,1,49252.86,49252.86,Card
+ORD10344,2025-02-01,CUST1247,Karthik R,55.0,Female,Chennai,Electronics,Smartphone,2,20405.25,40810.5,Upi
+ORD10345,2026-07-13,CUST1247,Nisha T,64.0,Male,Thanjavur,Home,Lamp,1,900.65,900.65,Cash
+ORD10346,2025-09-26,CUST1104,Ajay Kumar,59.0,Male,Coimbatore,Beauty,Hair Dryer,1,1587.54,1587.54,Cash
+ORD10347,2025-04-22,CUST1050,Arun Kumar,37.0,Male,Trichy,Sports,Sports Shoes,2,2633.18,5266.36,Card
+ORD10348,2025-04-19,CUST1094,Karthik R,42.0,Male,Madurai,Beauty,Skin Cream,3,684.09,2052.27,Card
+ORD10349,2025-10-07,CUST1026,Ajay Kumar,20.0,Female,Coimbatore,Clothing,Jacket,3,2683.49,8050.47,Upi
+ORD10350,2025-07-25,CUST1142,Rahul K,44.0,Male,Thanjavur,Electronics,Smartwatch,3,3877.62,11632.86,Upi
+ORD10351,2025-03-20,CUST1227,Nisha T,28.0,Female,Chennai,Beauty,Skin Cream,2,709.85,1419.7,Cash
+ORD10352,2026-08-19,CUST1132,Priya S,23.0,Female,Salem,Home,Chair,4,3333.62,13334.48,Cash
+ORD10353,2026-01-03,CUST1019,Nisha T,47.0,Male,Coimbatore,Beauty,Perfume,3,1195.93,3587.79,Upi
+ORD10354,2025-05-25,CUST1207,Arun Kumar,34.0,Male,Coimbatore,Sports,Cricket Bat,4,2330.43,9321.72,Upi
+ORD10355,2025-08-20,CUST1086,Divya M,33.0,Male,Trichy,Sports,Football,3,856.53,2569.59,Upi
+ORD10356,2026-03-30,CUST1088,Nisha T,20.0,Female,Chennai,Clothing,T-Shirt,2,803.07,1606.14,Cash
+ORD10357,2026-04-10,CUST1184,Ajay Kumar,40.0,Female,Coimbatore,Sports,Football,1,971.48,971.48,Card
+ORD10358,2026-04-29,CUST1018,Nisha T,41.0,Male,Thanjavur,Electronics,Smartwatch,4,4241.42,16965.68,Net Banking
+ORD10359,2025-02-25,CUST1034,Arun Kumar,42.0,Female,Salem,Home,Cookware Set,1,2303.11,2303.11,Net Banking
+ORD10360,2026-05-30,CUST1188,Karthik R,64.0,Male,Thanjavur,Sports,Yoga Mat,3,659.52,1978.56,Upi
+ORD10361,2025-06-09,CUST1213,Rahul K,20.0,Female,Coimbatore,Beauty,Face Wash,3,338.74,1016.22,Card
+ORD10362,2025-09-13,CUST1186,Sneha P,20.0,Male,Madurai,Sports,Sports Shoes,5,2655.36,13276.8,Card
+ORD10363,2025-04-02,CUST1153,Sneha P,44.0,Male,Madurai,Clothing,Jacket,1,2675.62,2675.62,Net Banking
+ORD10364,2026-08-05,CUST1125,Nisha T,45.0,Female,Chennai,Sports,Football,4,976.87,3907.48,Upi
+ORD10365,2025-04-12,CUST1076,Sneha P,33.0,Male,Chennai,Sports,Yoga Mat,3,821.6,2464.8,Net Banking
+ORD10366,2025-12-05,CUST1066,Arun Kumar,34.0,Female,Unknown,Sports,Cricket Bat,2,2665.78,5331.56,Net Banking
+ORD10367,2025-11-04,CUST1018,Vijay S,36.0,Male,Madurai,Electronics,Smartphone,3,16696.21,50088.63,Net Banking
+ORD10368,2025-04-22,CUST1031,Sneha P,34.0,Female,Madurai,Clothing,Shirt,2,1041.68,2083.36,Card
+ORD10369,2025-03-04,CUST1191,Rahul K,33.0,Female,Coimbatore,Home,Mixer,4,3679.77,14719.08,Card
+ORD10370,2025-02-22,CUST1147,Nisha T,49.0,Female,Madurai,Beauty,Hair Dryer,5,1503.15,7515.75,Card
+ORD10371,2025-09-29,CUST1077,Priya S,44.0,Female,Thanjavur,Clothing,Jeans,4,1559.76,6239.04,Card
+ORD10372,2025-02-10,CUST1030,Vijay S,22.0,Male,Trichy,Home,Chair,4,3015.69,12062.76,Cash
+ORD10373,2026-07-24,CUST1101,Ajay Kumar,41.0,Male,Thanjavur,Home,Mixer,4,3438.57,13754.28,Card
+ORD10374,2025-11-19,CUST1209,Arun Kumar,40.0,Male,Trichy,Sports,Football,5,845.15,4225.75,Card
+ORD10375,2025-04-29,CUST1077,Vijay S,33.0,Male,Coimbatore,Beauty,Face Wash,1,325.0,325.0,Card
+ORD10376,2026-04-09,CUST1073,Sneha P,30.0,Female,Coimbatore,Beauty,Skin Cream,5,626.38,3131.9,Cash
+ORD10377,2026-04-22,CUST1178,Rahul K,65.0,Female,Trichy,Electronics,Smartwatch,5,3904.27,19521.35,Net Banking
+ORD10378,2025-02-25,CUST1008,Priya S,51.0,Female,Chennai,Sports,Football,1,916.74,916.74,Cash
+ORD10379,2026-06-06,CUST1232,Vijay S,39.0,Female,Trichy,Electronics,Headphones,5,1869.63,9348.15,Net Banking
+ORD10380,2025-01-22,CUST1178,Karthik R,25.0,Female,Salem,Home,Cookware Set,1,2237.09,2237.09,Cash
+ORD10381,2025-04-23,CUST1177,Meena R,32.0,Male,Salem,Home,Lamp,1,856.54,856.54,Upi
+ORD10382,2026-04-04,CUST1069,Karthik R,27.0,Female,Chennai,Home,Cookware Set,4,2001.86,8007.44,Cash
+ORD10383,2025-07-04,CUST1174,Arun Kumar,21.0,Female,Trichy,Home,Chair,2,3289.08,6578.16,Upi
+ORD10384,2026-03-14,CUST1079,Meena R,28.0,Male,Coimbatore,Sports,Cricket Bat,5,2836.66,14183.3,Card
+ORD10385,2025-07-14,CUST1141,Rahul K,32.0,Female,Trichy,Sports,Football,1,905.86,905.86,Net Banking
+ORD10386,2025-02-17,CUST1001,Priya S,54.0,Male,Chennai,Beauty,Hair Dryer,5,1641.19,8205.95,Card
+ORD10387,2026-04-04,CUST1154,Nisha T,58.0,Male,Thanjavur,Clothing,T-Shirt,1,699.22,699.22,Unknown
+ORD10388,2025-02-18,CUST1100,Nisha T,33.0,Male,Chennai,Electronics,Laptop,4,48298.58,193194.32,Upi
+ORD10389,2025-10-26,CUST1039,Divya M,33.0,Female,Coimbatore,Electronics,Headphones,3,1843.44,5530.32,Upi
+ORD10390,2026-02-18,CUST1209,Divya M,44.0,Female,Trichy,Beauty,Face Wash,1,388.66,388.66,Upi
+ORD10391,2025-02-11,CUST1238,Karthik R,18.0,Female,Chennai,Clothing,T-Shirt,4,747.85,2991.4,Upi
+ORD10392,2026-05-17,CUST1076,Arun Kumar,60.0,Male,Trichy,Sports,Sports Shoes,4,2454.7,9818.8,Unknown
+ORD10393,2025-11-25,CUST1072,Meena R,60.0,Male,Chennai,Beauty,Perfume,3,1369.02,4107.06,Cash
+ORD10394,2025-04-01,CUST1237,Arun Kumar,31.0,Male,Chennai,Sports,Sports Shoes,3,3077.79,9233.37,Net Banking
+ORD10395,2026-02-16,CUST1207,Rahul K,20.0,Male,Madurai,Electronics,Headphones,5,1672.19,8360.95,Cash
+ORD10396,2025-07-16,CUST1192,Karthik R,59.0,Male,Chennai,Clothing,Jeans,3,1506.63,4519.89,Upi
+ORD10397,2025-12-28,CUST1113,Vijay S,64.0,Female,Chennai,Sports,Sports Shoes,2,2492.38,4984.76,Upi
+ORD10398,2025-01-06,CUST1074,Meena R,26.0,Female,Coimbatore,Home,Mixer,3,2765.36,8296.08,Upi
+ORD10399,2025-02-13,CUST1086,Meena R,58.0,Male,Coimbatore,Clothing,Jacket,1,2877.39,2877.39,Upi
+ORD10400,2026-08-18,CUST1100,Priya S,42.0,Male,Madurai,Clothing,Jacket,1,2596.4,2596.4,Cash
+ORD10401,2026-04-21,CUST1117,Ajay Kumar,36.0,Female,Coimbatore,Beauty,Skin Cream,2,699.35,1398.7,Upi
+ORD10402,2025-06-28,CUST1134,Nisha T,43.0,Female,Thanjavur,Home,Chair,4,3321.27,13285.08,Net Banking
+ORD10403,2025-11-19,CUST1088,Priya S,36.0,Male,Thanjavur,Home,Lamp,1,896.52,896.52,Cash
+ORD10404,2026-07-13,CUST1025,Priya S,54.0,Female,Thanjavur,Electronics,Smartphone,5,15968.76,79843.8,Upi
+ORD10405,2026-03-12,CUST1014,Vijay S,58.0,Female,Coimbatore,Electronics,Smartwatch,5,3917.64,19588.2,Net Banking
+ORD10406,2026-03-08,CUST1118,Divya M,62.0,Female,Coimbatore,Electronics,Smartwatch,5,4616.34,23081.7,Net Banking
+ORD10407,2026-02-03,CUST1168,Meena R,36.0,Female,Madurai,Electronics,Headphones,1,1766.05,1766.05,Upi
+ORD10408,2025-11-20,CUST1210,Sneha P,20.0,Male,Madurai,Electronics,Smartphone,4,17899.43,71597.72,Card
+ORD10409,2025-12-18,CUST1156,Meena R,27.0,Female,Coimbatore,Sports,Yoga Mat,4,785.4,3141.6,Net Banking
+ORD10410,2025-11-19,CUST1195,Priya S,23.0,Male,Thanjavur,Beauty,Skin Cream,5,670.71,3353.55,Cash
+ORD10411,2026-02-12,CUST1100,Sneha P,26.0,Male,Chennai,Sports,Sports Shoes,3,2455.94,7367.82,Cash
+ORD10412,2025-12-23,CUST1074,Divya M,52.0,Male,Thanjavur,Sports,Sports Shoes,2,2876.74,5753.48,Net Banking
+ORD10413,2025-11-08,CUST1083,Arun Kumar,55.0,Male,Madurai,Electronics,Headphones,2,1728.85,3457.7,Upi
+ORD10414,2026-07-21,CUST1247,Karthik R,63.0,Male,Coimbatore,Electronics,Laptop,5,52080.39,260401.95,Card
+ORD10415,2025-08-19,CUST1201,Ajay Kumar,45.0,Male,Thanjavur,Electronics,Smartwatch,5,4867.88,24339.4,Cash
+ORD10416,2025-08-30,CUST1242,Nisha T,62.0,Female,Trichy,Sports,Sports Shoes,1,2422.79,2422.79,Cash
+ORD10417,2025-05-08,CUST1170,Rahul K,27.0,Male,Trichy,Sports,Yoga Mat,4,821.88,3287.52,Cash
+ORD10418,2026-05-13,CUST1212,Arun Kumar,46.0,Female,Trichy,Beauty,Hair Dryer,3,1586.37,4759.11,Net Banking
+ORD10419,2026-01-21,CUST1171,Rahul K,59.0,Male,Coimbatore,Electronics,Headphones,4,1779.8,7119.2,Upi
+ORD10420,2026-05-17,CUST1006,Karthik R,61.0,Female,Thanjavur,Beauty,Perfume,2,1251.25,2502.5,Upi
+ORD10421,2025-12-04,CUST1193,Vijay S,32.0,Female,Madurai,Clothing,T-Shirt,2,672.3,1344.6,Upi
+ORD10422,2026-06-26,CUST1064,Vijay S,43.0,Female,Trichy,Sports,Sports Shoes,1,3076.43,3076.43,Cash
+ORD10423,2025-01-10,CUST1228,Sneha P,26.0,Female,Chennai,Home,Chair,3,3981.0,11943.0,Card
+ORD10424,2025-11-02,CUST1001,Rahul K,42.0,Male,Salem,Clothing,T-Shirt,5,701.51,3507.55,Upi
+ORD10425,2025-08-14,CUST1112,Priya S,47.0,Male,Thanjavur,Electronics,Headphones,5,2053.76,10268.8,Card
+ORD10426,2025-10-27,CUST1190,Nisha T,33.0,Male,Trichy,Home,Chair,2,3650.93,7301.86,Cash
+ORD10427,2025-06-07,CUST1219,Arun Kumar,57.0,Female,Trichy,Sports,Cricket Bat,2,2472.79,4945.58,Cash
+ORD10428,2025-11-06,CUST1081,Divya M,40.0,Male,Salem,Electronics,Headphones,2,1856.13,3712.26,Upi
+ORD10429,2026-08-21,CUST1165,Sneha P,48.0,Female,Madurai,Home,Chair,1,2991.59,2991.59,Net Banking
+ORD10430,2026-01-07,CUST1201,Ajay Kumar,62.0,Male,Chennai,Clothing,Jacket,1,2965.25,2965.25,Net Banking
+ORD10431,2026-05-17,CUST1181,Priya S,34.0,Male,Trichy,Clothing,T-Shirt,2,611.12,1222.24,Card
+ORD10432,2025-04-10,CUST1022,Rahul K,59.0,Female,Trichy,Sports,Football,2,886.79,1773.58,Net Banking
+ORD10433,2025-03-16,CUST1184,Nisha T,41.0,Male,Madurai,Beauty,Skin Cream,5,610.1,3050.5,Card
+ORD10434,2026-07-25,CUST1210,Vijay S,43.0,Male,Salem,Sports,Sports Shoes,3,2725.41,8176.23,Net Banking
+ORD10435,2025-03-28,CUST1201,Karthik R,55.0,Female,Chennai,Home,Mixer,1,3309.63,3309.63,Card
+ORD10436,2026-05-07,CUST1078,Meena R,22.0,Male,Chennai,Clothing,Shirt,5,1097.64,5488.2,Card
+ORD10437,2026-06-01,CUST1229,Nisha T,34.0,Female,Thanjavur,Clothing,T-Shirt,2,767.84,1535.68,Net Banking
+ORD10438,2026-07-14,CUST1038,Rahul K,52.0,Female,Madurai,Clothing,T-Shirt,3,714.95,2144.85,Card
+ORD10439,2025-05-25,CUST1148,Rahul K,57.0,Female,Trichy,Electronics,Laptop,4,45485.88,181943.52,Cash
+ORD10440,2025-09-15,CUST1154,Karthik R,29.0,Female,Madurai,Beauty,Skin Cream,1,643.06,643.06,Upi
+ORD10441,2026-04-01,CUST1072,Ajay Kumar,42.0,Male,Salem,Beauty,Skin Cream,5,664.6,3323.0,Net Banking
+ORD10442,2026-04-25,CUST1043,Ajay Kumar,21.0,Female,Coimbatore,Clothing,Jacket,5,2938.25,14691.25,Card
+ORD10443,2026-03-23,CUST1228,Nisha T,28.0,Male,Madurai,Clothing,Shirt,2,1084.45,2168.9,Cash
+ORD10444,2025-05-16,CUST1173,Divya M,61.0,Male,Trichy,Home,Mixer,4,3527.07,14108.28,Upi
+ORD10445,2026-04-29,CUST1152,Arun Kumar,53.0,Female,Madurai,Electronics,Laptop,3,58164.56,174493.68,Card
+ORD10446,2025-09-26,CUST1125,Rahul K,32.0,Female,Coimbatore,Clothing,Jacket,3,2714.86,8144.58,Cash
+ORD10447,2026-05-06,CUST1017,Divya M,49.0,Female,Trichy,Electronics,Laptop,4,55832.11,223328.44,Net Banking
+ORD10448,2025-12-16,CUST1196,Meena R,35.0,Male,Salem,Clothing,T-Shirt,1,654.92,654.92,Cash
+ORD10449,2025-11-03,CUST1098,Divya M,20.0,Female,Coimbatore,Electronics,Laptop,3,58998.88,176996.64,Net Banking
+ORD10450,2025-04-10,CUST1136,Unknown,63.0,Male,Thanjavur,Home,Cookware Set,1,2410.97,2410.97,Net Banking
+ORD10451,2025-11-16,CUST1183,Ajay Kumar,44.0,Female,Chennai,Sports,Yoga Mat,4,724.77,2899.08,Card
+ORD10452,2025-05-18,CUST1140,Vijay S,56.0,Female,Chennai,Home,Cookware Set,2,1982.46,3964.92,Upi
+ORD10453,2025-03-25,CUST1241,Karthik R,33.0,Female,Trichy,Clothing,T-Shirt,5,775.72,3878.6,Net Banking
+ORD10454,2025-11-30,CUST1231,Ajay Kumar,30.0,Male,Salem,Home,Mixer,3,3211.8,9635.4,Card
+ORD10455,2026-03-21,CUST1077,Priya S,25.0,Male,Trichy,Home,Mixer,2,3473.32,6946.64,Net Banking
+ORD10456,2025-06-29,CUST1009,Divya M,44.0,Male,Trichy,Sports,Cricket Bat,4,2541.28,10165.12,Card
+ORD10457,2025-11-14,CUST1024,Sneha P,65.0,Male,Coimbatore,Beauty,Perfume,1,1486.81,1486.81,Net Banking
+ORD10458,2026-04-04,CUST1119,Meena R,26.0,Male,Salem,Home,Mixer,2,3066.14,6132.28,Upi
+ORD10459,2025-01-20,CUST1009,Meena R,43.0,Female,Chennai,Beauty,Face Wash,5,321.16,1605.8,Upi
+ORD10460,2026-04-24,CUST1128,Vijay S,43.0,Female,Unknown,Home,Cookware Set,3,2443.99,7331.97,Cash
+ORD10461,2026-07-06,CUST1147,Divya M,19.0,Male,Trichy,Home,Chair,4,3080.55,12322.2,Net Banking
+ORD10462,2026-02-10,CUST1205,Nisha T,42.0,Male,Coimbatore,Home,Lamp,1,992.1,992.1,Net Banking
+ORD10463,2025-01-30,CUST1151,Divya M,49.0,Female,Trichy,Clothing,Shirt,1,1183.85,1183.85,Cash
+ORD10464,2025-03-23,CUST1197,Priya S,22.0,Female,Coimbatore,Electronics,Laptop,3,46024.38,138073.14,Unknown
+ORD10465,2026-02-20,CUST1179,Sneha P,45.0,Female,Madurai,Clothing,T-Shirt,4,739.24,2956.96,Card
+ORD10466,2025-02-15,CUST1056,Nisha T,56.0,Female,Chennai,Home,Cookware Set,4,2358.29,9433.16,Cash
+ORD10467,2025-07-31,CUST1189,Meena R,34.0,Female,Chennai,Home,Chair,5,3688.46,18442.3,Card
+ORD10468,2025-12-24,CUST1070,Karthik R,48.0,Male,Trichy,Beauty,Perfume,3,1239.99,3719.97,Cash
+ORD10469,2025-04-10,CUST1051,Ajay Kumar,27.0,Female,Madurai,Beauty,Perfume,5,1208.88,6044.4,Upi
+ORD10470,2025-12-02,CUST1192,Sneha P,30.0,Male,Chennai,Home,Mixer,3,2991.23,8973.69,Net Banking
+ORD10471,2026-02-12,CUST1220,Nisha T,64.0,Female,Thanjavur,Beauty,Face Wash,4,303.18,1212.72,Cash
+ORD10472,2025-05-12,CUST1131,Meena R,24.0,Male,Thanjavur,Electronics,Laptop,2,56875.25,113750.5,Card
+ORD10473,2026-05-11,CUST1089,Vijay S,63.0,Female,Madurai,Home,Lamp,2,949.64,1899.28,Card
+ORD10474,2025-01-28,CUST1096,Rahul K,44.0,Male,Salem,Home,Lamp,4,977.47,3909.88,Upi
+ORD10475,2025-12-19,CUST1147,Arun Kumar,21.0,Female,Salem,Beauty,Perfume,2,1287.67,2575.34,Card
+ORD10476,2025-09-16,CUST1103,Divya M,43.0,Female,Coimbatore,Beauty,Face Wash,2,383.08,766.16,Net Banking
+ORD10477,2025-09-17,CUST1002,Rahul K,65.0,Male,Salem,Home,Chair,5,3760.18,18800.9,Cash
+ORD10478,2025-03-04,CUST1209,Priya S,58.0,Male,Trichy,Clothing,Jeans,3,1559.13,4677.39,Cash
+ORD10479,2025-01-22,CUST1223,Rahul K,18.0,Male,Madurai,Clothing,Shirt,2,1140.08,2280.16,Upi
+ORD10480,2025-05-11,CUST1037,Rahul K,33.0,Female,Trichy,Sports,Cricket Bat,5,2330.93,11654.65,Upi
+ORD10481,2025-02-26,CUST1078,Divya M,40.0,Female,Coimbatore,Electronics,Smartphone,1,18268.24,18268.24,Upi
+ORD10482,2026-07-19,CUST1177,Priya S,27.0,Male,Thanjavur,Home,Mixer,3,2823.98,8471.94,Net Banking
+ORD10483,2026-01-02,CUST1184,Arun Kumar,36.0,Female,Madurai,Home,Chair,4,4011.03,16044.12,Upi
+ORD10484,2025-09-10,CUST1110,Nisha T,32.0,Male,Madurai,Sports,Yoga Mat,3,723.89,2171.67,Net Banking
+ORD10485,2026-01-25,CUST1149,Arun Kumar,37.0,Female,Madurai,Home,Lamp,4,1026.33,4105.32,Cash
+ORD10486,2025-03-31,CUST1039,Vijay S,23.0,Male,Chennai,Beauty,Skin Cream,5,656.51,3282.55,Upi
+ORD10487,2026-05-28,CUST1070,Meena R,55.0,Female,Trichy,Sports,Cricket Bat,2,2150.85,4301.7,Upi
+ORD10488,2026-02-09,CUST1043,Sneha P,30.0,Female,Madurai,Sports,Cricket Bat,1,2169.99,2169.99,Cash
+ORD10489,2026-02-23,CUST1145,Karthik R,61.0,Female,Salem,Home,Lamp,2,925.46,1850.92,Net Banking
+ORD10490,2025-10-11,CUST1178,Arun Kumar,61.0,Male,Trichy,Sports,Yoga Mat,4,709.86,2839.44,Upi
+ORD10491,2025-05-14,CUST1248,Priya S,49.0,Male,Salem,Electronics,Smartwatch,5,4925.08,24625.4,Card
+ORD10492,2026-04-25,CUST1163,Ajay Kumar,62.0,Male,Chennai,Electronics,Laptop,3,59140.02,177420.06,Net Banking
+ORD10493,2026-07-03,CUST1050,Divya M,51.0,Male,Trichy,Electronics,Smartphone,3,18096.54,54289.62,Upi
+ORD10494,2026-07-03,CUST1164,Nisha T,61.0,Male,Salem,Clothing,T-Shirt,4,762.43,3049.72,Cash
+ORD10495,2025-11-22,CUST1210,Karthik R,25.0,Female,Thanjavur,Electronics,Laptop,5,49199.1,245995.5,Upi
+ORD10496,2026-01-26,CUST1066,Nisha T,62.0,Female,Madurai,Clothing,Jeans,1,1421.53,1421.53,Net Banking
+ORD10497,2026-03-03,CUST1153,Ajay Kumar,26.0,Female,Salem,Electronics,Headphones,4,1916.71,7666.84,Card
+ORD10498,2025-12-30,CUST1187,Unknown,41.0,Male,Thanjavur,Beauty,Perfume,4,1217.87,4871.48,Cash
+ORD10499,2026-01-02,CUST1233,Ajay Kumar,24.0,Male,Thanjavur,Sports,Cricket Bat,2,2718.15,5436.3,Cash
+ORD10500,2025-10-11,CUST1034,Karthik R,59.0,Female,Salem,Sports,Yoga Mat,1,784.9,784.9,Upi
+ORD10501,2025-12-23,CUST1071,Unknown,21.0,Male,Madurai,Beauty,Hair Dryer,4,1569.88,6279.52,Net Banking
+ORD10502,2025-03-08,CUST1190,Meena R,30.0,Male,Coimbatore,Beauty,Skin Cream,3,568.0,1704.0,Net Banking
+ORD10503,2026-02-23,CUST1220,Meena R,54.0,Female,Coimbatore,Home,Cookware Set,3,2053.88,6161.64,Upi
+ORD10504,2025-05-21,CUST1088,Meena R,46.0,Male,Chennai,Home,Lamp,3,871.18,2613.54,Cash
+ORD10505,2025-03-26,CUST1213,Ajay Kumar,18.0,Female,Trichy,Electronics,Laptop,3,48364.16,145092.48,Card
+ORD10506,2025-02-08,CUST1096,Karthik R,25.0,Female,Chennai,Home,Cookware Set,2,2037.57,4075.14,Cash
+ORD10507,2025-01-03,CUST1145,Unknown,61.0,Male,Coimbatore,Beauty,Skin Cream,5,588.44,2942.2,Net Banking
+ORD10508,2025-09-26,CUST1053,Nisha T,26.0,Male,Coimbatore,Beauty,Hair Dryer,3,1827.25,5481.75,Cash
+ORD10509,2025-05-30,CUST1122,Arun Kumar,42.0,Female,Chennai,Beauty,Hair Dryer,4,1897.14,7588.56,Net Banking
+ORD10510,2025-10-25,CUST1050,Priya S,58.0,Male,Trichy,Beauty,Skin Cream,5,672.88,3364.4,Card
+ORD10511,2025-09-23,CUST1042,Ajay Kumar,33.0,Male,Chennai,Clothing,Jacket,5,2585.36,12926.8,Card
+ORD10512,2025-04-20,CUST1017,Rahul K,33.0,Male,Trichy,Sports,Football,4,962.54,3850.16,Net Banking
+ORD10513,2026-03-11,CUST1003,Nisha T,49.0,Male,Chennai,Electronics,Smartwatch,3,4998.27,14994.81,Cash
+ORD10514,2025-06-10,CUST1057,Priya S,29.0,Female,Coimbatore,Electronics,Headphones,4,1649.85,6599.4,Net Banking
+ORD10515,2025-07-09,CUST1117,Rahul K,42.0,Female,Salem,Sports,Sports Shoes,3,2552.42,7657.26,Upi
+ORD10516,2026-07-04,CUST1098,Nisha T,24.0,Male,Thanjavur,Clothing,Shirt,1,1215.59,1215.59,Upi
+ORD10517,2025-08-23,CUST1040,Priya S,63.0,Female,Coimbatore,Clothing,T-Shirt,2,649.11,1298.22,Upi
+ORD10518,2026-04-02,CUST1015,Vijay S,45.0,Male,Salem,Electronics,Smartwatch,4,4690.28,18761.12,Cash
+ORD10519,2026-07-17,CUST1171,Karthik R,36.0,Female,Trichy,Home,Mixer,1,3009.72,3009.72,Cash
+ORD10520,2026-01-15,CUST1191,Vijay S,56.0,Male,Thanjavur,Electronics,Laptop,3,46688.09,140064.27,Card
+ORD10521,2025-07-19,CUST1198,Rahul K,20.0,Male,Salem,Beauty,Perfume,5,1329.13,6645.65,Upi
+ORD10522,2025-03-19,CUST1184,Nisha T,23.0,Male,Coimbatore,Clothing,Jacket,2,2958.67,5917.34,Net Banking
+ORD10523,2025-01-26,CUST1127,Meena R,45.0,Female,Trichy,Home,Mixer,4,3412.51,13650.04,Upi
+ORD10524,2025-08-14,CUST1149,Priya S,40.0,Female,Chennai,Electronics,Smartwatch,1,4234.51,4234.51,Upi
+ORD10525,2026-01-19,CUST1017,Meena R,25.0,Female,Coimbatore,Clothing,Shirt,3,1177.58,3532.74,Unknown
+ORD10526,2025-12-26,CUST1202,Priya S,37.0,Male,Madurai,Clothing,T-Shirt,1,669.31,669.31,Card
+ORD10527,2025-02-04,CUST1117,Divya M,55.0,Female,Chennai,Electronics,Smartphone,5,20246.54,101232.7,Net Banking
+ORD10528,2026-03-05,CUST1017,Vijay S,29.0,Male,Chennai,Sports,Cricket Bat,1,2575.6,2575.6,Upi
+ORD10529,2025-12-29,CUST1165,Vijay S,26.0,Female,Trichy,Home,Mixer,5,3667.13,18335.65,Net Banking
+ORD10530,2025-01-25,CUST1185,Divya M,51.0,Male,Chennai,Home,Chair,2,3885.36,7770.72,Cash
+ORD10531,2025-06-04,CUST1207,Priya S,19.0,Male,Thanjavur,Beauty,Hair Dryer,4,1695.67,6782.68,Upi
+ORD10532,2026-06-03,CUST1144,Karthik R,31.0,Male,Trichy,Sports,Yoga Mat,1,669.74,669.74,Upi
+ORD10533,2026-02-24,CUST1190,Divya M,30.0,Female,Trichy,Clothing,Jacket,3,2924.22,8772.66,Upi
+ORD10534,2026-07-14,CUST1078,Nisha T,57.0,Female,Salem,Home,Mixer,3,3451.05,10353.15,Cash
+ORD10535,2025-09-08,CUST1059,Arun Kumar,28.0,Male,Thanjavur,Home,Cookware Set,5,1872.39,9361.95,Upi
+ORD10536,2026-02-25,CUST1244,Sneha P,50.0,Male,Thanjavur,Beauty,Face Wash,1,380.52,380.52,Cash
+ORD10537,2025-01-08,CUST1019,Divya M,58.0,Male,Trichy,Clothing,Jeans,4,1494.68,5978.72,Net Banking
+ORD10538,2026-02-22,CUST1198,Ajay Kumar,65.0,Female,Madurai,Electronics,Smartwatch,2,4012.66,8025.32,Upi
+ORD10539,2025-10-18,CUST1060,Priya S,24.0,Female,Madurai,Clothing,Jacket,2,2749.05,5498.1,Upi
+ORD10540,2025-03-21,CUST1061,Karthik R,29.0,Male,Salem,Home,Mixer,1,3635.94,3635.94,Card
+ORD10541,2025-12-04,CUST1197,Karthik R,24.0,Male,Thanjavur,Beauty,Hair Dryer,5,1913.77,9568.85,Cash
+ORD10542,2026-04-27,CUST1076,Rahul K,23.0,Female,Trichy,Clothing,Jeans,2,1782.12,3564.24,Cash
+ORD10543,2025-10-21,CUST1069,Ajay Kumar,22.0,Male,Salem,Home,Lamp,5,775.07,3875.35,Card
+ORD10544,2025-01-26,CUST1040,Vijay S,32.0,Male,Chennai,Clothing,Jacket,1,2446.63,2446.63,Card
+ORD10545,2025-05-17,CUST1245,Meena R,34.0,Female,Coimbatore,Sports,Football,1,815.97,815.97,Upi
+ORD10546,2025-12-23,CUST1173,Meena R,45.0,Female,Trichy,Sports,Sports Shoes,2,2918.99,5837.98,Net Banking
+ORD10547,2025-11-17,CUST1239,Priya S,48.0,Female,Madurai,Electronics,Laptop,3,49251.7,147755.1,Upi
+ORD10548,2025-02-26,CUST1210,Vijay S,19.0,Female,Chennai,Electronics,Laptop,1,47175.34,47175.34,Card
+ORD10549,2025-09-18,CUST1156,Meena R,52.0,Female,Trichy,Electronics,Smartphone,1,17204.82,17204.82,Card
+ORD10550,2026-08-03,CUST1240,Rahul K,59.0,Male,Chennai,Clothing,Jeans,1,1723.02,1723.02,Upi
+ORD10551,2025-07-11,CUST1218,Unknown,22.0,Female,Madurai,Electronics,Smartwatch,3,4170.52,12511.56,Upi
+ORD10552,2025-01-16,CUST1081,Arun Kumar,23.0,Female,Salem,Sports,Cricket Bat,2,2574.71,5149.42,Net Banking
+ORD10553,2026-01-05,CUST1122,Arun Kumar,27.0,Female,Thanjavur,Home,Chair,4,3281.49,13125.96,Upi
+ORD10554,2025-07-06,CUST1244,Rahul K,56.0,Female,Chennai,Electronics,Smartphone,4,15367.31,61469.24,Net Banking
+ORD10555,2026-05-24,CUST1024,Ajay Kumar,60.0,Female,Trichy,Home,Chair,2,3401.83,6803.66,Upi
+ORD10556,2025-06-14,CUST1020,Karthik R,39.0,Male,Coimbatore,Electronics,Smartwatch,3,3860.37,11581.11,Card
+ORD10557,2026-06-14,CUST1226,Sneha P,27.0,Male,Salem,Clothing,Jacket,3,2625.56,7876.68,Net Banking
+ORD10558,2025-03-04,CUST1113,Vijay S,57.0,Female,Chennai,Clothing,T-Shirt,1,700.63,700.63,Cash
+ORD10559,2025-08-24,CUST1132,Priya S,60.0,Male,Chennai,Sports,Sports Shoes,2,2407.61,4815.22,Card
+ORD10560,2025-08-02,CUST1234,Rahul K,45.0,Male,Coimbatore,Clothing,Jeans,2,1629.09,3258.18,Cash
+ORD10561,2025-07-27,CUST1216,Sneha P,24.0,Male,Salem,Sports,Football,1,922.99,922.99,Card
+ORD10562,2026-01-24,CUST1094,Rahul K,18.0,Female,Trichy,Home,Chair,2,3116.8,6233.6,Card
+ORD10563,2025-04-08,CUST1182,Rahul K,47.0,Male,Trichy,Sports,Sports Shoes,1,2806.09,2806.09,Net Banking
+ORD10564,2026-07-27,CUST1035,Ajay Kumar,41.0,Female,Trichy,Home,Lamp,2,842.42,1684.84,Cash
+ORD10565,2026-02-16,CUST1235,Unknown,43.0,Male,Chennai,Home,Mixer,3,3247.02,9741.06,Card
+ORD10566,2026-02-24,CUST1163,Arun Kumar,29.0,Female,Thanjavur,Sports,Cricket Bat,2,2855.58,5711.16,Net Banking
+ORD10567,2025-03-08,CUST1120,Vijay S,58.0,Male,Trichy,Sports,Cricket Bat,4,2643.97,10575.88,Net Banking
+ORD10568,2026-06-29,CUST1205,Ajay Kumar,37.0,Female,Madurai,Home,Chair,3,3896.89,11690.67,Card
+ORD10569,2025-03-02,CUST1250,Priya S,43.0,Female,Trichy,Sports,Yoga Mat,4,785.74,3142.96,Upi
+ORD10570,2025-05-20,CUST1017,Meena R,52.0,Male,Chennai,Home,Lamp,4,932.41,3729.64,Net Banking
+ORD10571,2025-07-25,CUST1028,Rahul K,34.0,Male,Madurai,Clothing,Shirt,3,1152.47,3457.41,Cash
+ORD10572,2026-06-12,CUST1107,Ajay Kumar,52.0,Female,Coimbatore,Beauty,Perfume,5,1578.2,7891.0,Unknown
+ORD10573,2025-05-29,CUST1038,Sneha P,65.0,Male,Madurai,Sports,Sports Shoes,3,2443.8,7331.4,Card
+ORD10574,2025-12-24,CUST1191,Priya S,20.0,Male,Thanjavur,Home,Mixer,3,2973.47,8920.41,Card
+ORD10575,2025-07-22,CUST1175,Meena R,30.0,Male,Thanjavur,Electronics,Smartwatch,1,4741.75,4741.75,Net Banking
+ORD10576,2025-12-02,CUST1008,Arun Kumar,25.0,Female,Trichy,Electronics,Headphones,5,1530.54,7652.7,Net Banking
+ORD10577,2026-06-26,CUST1020,Meena R,30.0,Male,Madurai,Clothing,Shirt,1,941.75,941.75,Net Banking
+ORD10578,2025-06-22,CUST1023,Meena R,21.0,Female,Madurai,Clothing,T-Shirt,2,752.78,1505.56,Card
+ORD10579,2026-08-04,CUST1126,Rahul K,56.0,Female,Madurai,Home,Lamp,4,883.59,3534.36,Card
+ORD10580,2025-09-17,CUST1108,Nisha T,26.0,Female,Coimbatore,Clothing,Jacket,4,3074.44,12297.76,Cash
+ORD10581,2026-02-28,CUST1226,Sneha P,44.0,Female,Coimbatore,Clothing,Jeans,2,1762.4,3524.8,Cash
+ORD10582,2026-03-24,CUST1155,Rahul K,32.0,Female,Thanjavur,Clothing,Jacket,2,2555.26,5110.52,Upi
+ORD10583,2026-01-02,CUST1143,Ajay Kumar,29.0,Female,Salem,Sports,Sports Shoes,3,2488.47,7465.41,Net Banking
+ORD10584,2026-05-28,CUST1243,Sneha P,36.0,Male,Trichy,Clothing,Jeans,3,1558.73,4676.19,Cash
+ORD10585,2025-12-07,CUST1108,Ajay Kumar,47.0,Female,Madurai,Sports,Yoga Mat,1,749.23,749.23,Card
+ORD10586,2026-03-01,CUST1062,Nisha T,39.0,Female,Thanjavur,Home,Cookware Set,4,2522.04,10088.16,Net Banking
+ORD10587,2025-04-14,CUST1203,Meena R,43.0,Female,Trichy,Sports,Yoga Mat,5,759.75,3798.75,Net Banking
+ORD10588,2025-08-17,CUST1248,Rahul K,50.0,Male,Thanjavur,Sports,Cricket Bat,3,2504.47,7513.41,Upi
+ORD10589,2025-10-18,CUST1245,Arun Kumar,19.0,Male,Chennai,Clothing,Shirt,5,951.08,4755.4,Upi
+ORD10590,2026-04-23,CUST1179,Unknown,56.0,Male,Coimbatore,Beauty,Skin Cream,2,597.02,1194.04,Card
+ORD10591,2025-11-23,CUST1112,Karthik R,24.0,Male,Trichy,Clothing,Shirt,4,1227.34,4909.36,Card
+ORD10592,2026-08-22,CUST1062,Ajay Kumar,40.0,Female,Trichy,Home,Lamp,5,795.9,3979.5,Cash
+ORD10593,2025-11-08,CUST1010,Meena R,63.0,Male,Trichy,Clothing,Jeans,1,1500.38,1500.38,Net Banking
+ORD10594,2025-11-05,CUST1152,Sneha P,21.0,Female,Thanjavur,Home,Chair,3,3721.62,11164.86,Upi
+ORD10595,2026-05-03,CUST1005,Rahul K,45.0,Female,Coimbatore,Clothing,Shirt,2,1219.04,2438.08,Card
+ORD10596,2025-03-26,CUST1223,Rahul K,31.0,Male,Trichy,Electronics,Smartwatch,5,4239.52,21197.6,Card
+ORD10597,2025-06-04,CUST1039,Arun Kumar,20.0,Female,Trichy,Electronics,Smartwatch,3,4831.13,14493.39,Net Banking
+ORD10598,2026-03-10,CUST1225,Ajay Kumar,65.0,Male,Chennai,Beauty,Face Wash,3,393.59,1180.77,Card
+ORD10599,2025-06-25,CUST1016,Divya M,29.0,Female,Madurai,Beauty,Hair Dryer,2,1854.98,3709.96,Upi
+ORD10600,2026-08-22,CUST1186,Ajay Kumar,32.0,Female,Coimbatore,Clothing,T-Shirt,3,777.59,2332.77,Card
+ORD10601,2025-03-20,CUST1247,Karthik R,39.0,Female,Salem,Beauty,Face Wash,2,350.13,700.26,Upi
+ORD10602,2025-05-28,CUST1063,Karthik R,35.0,Female,Madurai,Home,Mixer,2,2911.0,5822.0,Card
+ORD10603,2026-06-19,CUST1144,Vijay S,39.0,Male,Madurai,Home,Chair,1,3607.68,3607.68,Upi
+ORD10604,2026-08-02,CUST1062,Karthik R,52.0,Male,Chennai,Sports,Football,2,932.89,1865.78,Net Banking
+ORD10605,2025-12-03,CUST1052,Vijay S,61.0,Female,Chennai,Home,Chair,2,3904.42,7808.84,Upi
+ORD10606,2026-08-03,CUST1194,Rahul K,40.0,Female,Coimbatore,Clothing,T-Shirt,4,720.76,2883.04,Upi
+ORD10607,2025-05-10,CUST1127,Sneha P,48.0,Male,Salem,Home,Cookware Set,1,2401.0,2401.0,Upi
+ORD10608,2025-04-16,CUST1168,Meena R,31.0,Male,Coimbatore,Electronics,Smartwatch,4,3894.94,15579.76,Card
+ORD10609,2026-05-31,CUST1236,Karthik R,61.0,Male,Trichy,Clothing,T-Shirt,3,657.44,1972.32,Upi
+ORD10610,2025-02-19,CUST1223,Rahul K,50.0,Female,Trichy,Beauty,Face Wash,5,314.15,1570.75,Upi
+ORD10611,2026-06-30,CUST1062,Vijay S,36.0,Male,Coimbatore,Clothing,T-Shirt,5,781.9,3909.5,Card
+ORD10612,2025-03-19,CUST1027,Sneha P,60.0,Male,Thanjavur,Clothing,T-Shirt,2,674.8,1349.6,Cash
+ORD10613,2025-07-27,CUST1197,Ajay Kumar,35.0,Male,Thanjavur,Beauty,Face Wash,1,380.52,380.52,Cash
+ORD10614,2025-02-02,CUST1001,Priya S,65.0,Male,Salem,Clothing,Jeans,5,1714.17,8570.85,Card
+ORD10615,2025-02-26,CUST1093,Nisha T,47.0,Female,Madurai,Electronics,Smartphone,4,17179.27,68717.08,Card
+ORD10616,2025-12-27,CUST1197,Unknown,29.0,Female,Thanjavur,Beauty,Perfume,2,1228.75,2457.5,Card
+ORD10617,2025-01-29,CUST1010,Rahul K,53.0,Female,Chennai,Clothing,Jeans,3,1371.89,4115.67,Upi
+ORD10618,2026-02-15,CUST1021,Priya S,49.0,Male,Coimbatore,Home,Chair,5,3038.87,15194.35,Cash
+ORD10619,2026-03-17,CUST1046,Meena R,63.0,Female,Trichy,Sports,Football,5,999.25,4996.25,Net Banking
+ORD10620,2026-05-15,CUST1103,Ajay Kumar,56.0,Female,Trichy,Sports,Sports Shoes,5,2993.42,14967.1,Card
+ORD10621,2025-11-05,CUST1038,Rahul K,52.0,Female,Salem,Electronics,Headphones,3,1989.56,5968.68,Net Banking
+ORD10622,2025-05-30,CUST1026,Meena R,44.0,Female,Coimbatore,Sports,Sports Shoes,4,2976.08,11904.32,Net Banking
+ORD10623,2025-12-14,CUST1183,Nisha T,28.0,Male,Madurai,Home,Chair,4,3150.66,12602.64,Cash
+ORD10624,2025-09-22,CUST1116,Priya S,19.0,Female,Salem,Sports,Sports Shoes,4,2557.4,10229.6,Cash
+ORD10625,2026-03-07,CUST1216,Ajay Kumar,54.0,Male,Trichy,Electronics,Smartphone,1,16650.92,16650.92,Upi
+ORD10626,2025-11-03,CUST1040,Meena R,48.0,Male,Madurai,Sports,Cricket Bat,4,2463.05,9852.2,Card
+ORD10627,2025-06-16,CUST1060,Priya S,25.0,Female,Chennai,Home,Lamp,2,1015.52,2031.04,Card
+ORD10628,2025-05-30,CUST1107,Meena R,58.0,Female,Coimbatore,Home,Mixer,2,2776.08,5552.16,Card
+ORD10629,2026-01-14,CUST1093,Nisha T,37.0,Female,Trichy,Clothing,Jacket,2,3169.49,6338.98,Net Banking
+ORD10630,2025-10-22,CUST1155,Arun Kumar,56.0,Female,Chennai,Home,Cookware Set,2,2334.94,4669.88,Net Banking
+ORD10631,2026-05-17,CUST1105,Karthik R,35.0,Female,Salem,Beauty,Perfume,3,1581.85,4745.55,Net Banking
+ORD10632,2025-03-18,CUST1156,Vijay S,18.0,Male,Salem,Electronics,Smartwatch,3,4296.16,12888.48,Card
+ORD10633,2025-04-03,CUST1030,Vijay S,44.0,Female,Madurai,Electronics,Smartphone,5,18336.58,91682.9,Net Banking
+ORD10634,2025-06-14,CUST1069,Karthik R,21.0,Male,Trichy,Beauty,Face Wash,1,299.14,299.14,Upi
+ORD10635,2025-04-05,CUST1198,Vijay S,47.0,Female,Coimbatore,Clothing,T-Shirt,1,734.88,734.88,Net Banking
+ORD10636,2025-03-24,CUST1056,Arun Kumar,52.0,Male,Coimbatore,Sports,Yoga Mat,5,764.42,3822.1,Card
+ORD10637,2025-06-17,CUST1201,Ajay Kumar,48.0,Female,Madurai,Sports,Football,1,950.17,950.17,Cash
+ORD10638,2025-01-19,CUST1092,Sneha P,31.0,Male,Chennai,Electronics,Headphones,3,1920.38,5761.14,Card
+ORD10639,2026-01-10,CUST1106,Vijay S,55.0,Male,Trichy,Sports,Sports Shoes,4,2779.77,11119.08,Card
+ORD10640,2025-09-21,CUST1247,Arun Kumar,54.0,Female,Madurai,Clothing,Jeans,1,1689.08,1689.08,Card
+ORD10641,2026-01-21,CUST1018,Vijay S,20.0,Female,Thanjavur,Clothing,Jacket,5,2928.21,14641.05,Cash
+ORD10642,2026-02-28,CUST1019,Karthik R,43.0,Male,Trichy,Clothing,Jacket,4,2578.46,10313.84,Card
+ORD10643,2025-08-23,CUST1066,Karthik R,36.0,Female,Chennai,Sports,Football,5,928.04,4640.2,Card
+ORD10644,2025-02-18,CUST1203,Arun Kumar,42.0,Female,Chennai,Beauty,Skin Cream,3,644.14,1932.42,Card
+ORD10645,2025-07-14,CUST1002,Karthik R,25.0,Female,Salem,Clothing,Shirt,3,1121.06,3363.18,Card
+ORD10646,2025-05-03,CUST1205,Priya S,45.0,Male,Trichy,Electronics,Laptop,5,45939.73,229698.65,Card
+ORD10647,2026-07-26,CUST1205,Rahul K,35.0,Female,Trichy,Clothing,T-Shirt,1,599.2,599.2,Net Banking
+ORD10648,2025-10-06,CUST1057,Arun Kumar,45.0,Female,Chennai,Home,Chair,5,3998.16,19990.8,Net Banking
+ORD10649,2025-06-02,CUST1211,Vijay S,41.0,Female,Salem,Sports,Sports Shoes,3,2499.66,7498.98,Cash
+ORD10650,2026-01-08,CUST1010,Rahul K,59.0,Male,Trichy,Sports,Sports Shoes,5,2641.29,13206.45,Upi
+ORD10651,2026-05-02,CUST1059,Sneha P,23.0,Male,Trichy,Home,Mixer,4,3396.68,13586.72,Cash
+ORD10652,2026-06-13,CUST1174,Ajay Kumar,25.0,Female,Chennai,Electronics,Smartwatch,3,4563.47,13690.41,Card
+ORD10653,2025-08-20,CUST1045,Divya M,37.0,Female,Thanjavur,Sports,Sports Shoes,2,2712.57,5425.14,Cash
+ORD10654,2025-09-16,CUST1217,Ajay Kumar,26.0,Male,Coimbatore,Clothing,Jacket,4,2562.98,10251.92,Net Banking
+ORD10655,2025-12-03,CUST1187,Unknown,22.0,Male,Chennai,Electronics,Smartphone,2,18197.72,36395.44,Net Banking
+ORD10656,2025-12-18,CUST1176,Arun Kumar,47.0,Male,Chennai,Beauty,Skin Cream,4,651.98,2607.92,Card
+ORD10657,2026-01-25,CUST1200,Arun Kumar,35.0,Male,Thanjavur,Home,Lamp,2,899.38,1798.76,Upi
+ORD10658,2025-12-31,CUST1054,Ajay Kumar,33.0,Male,Salem,Sports,Cricket Bat,2,2258.36,4516.72,Upi
+ORD10659,2025-06-27,CUST1084,Nisha T,48.0,Female,Salem,Sports,Sports Shoes,5,2737.36,13686.8,Cash
+ORD10660,2025-12-23,CUST1034,Nisha T,50.0,Male,Chennai,Electronics,Smartphone,1,20641.02,20641.02,Card
+ORD10661,2025-03-19,CUST1248,Karthik R,62.0,Male,Madurai,Clothing,Jeans,3,1693.5,5080.5,Upi
+ORD10662,2025-04-05,CUST1018,Priya S,48.0,Female,Trichy,Home,Lamp,4,881.66,3526.64,Upi
+ORD10663,2025-04-29,CUST1157,Karthik R,61.0,Male,Trichy,Sports,Yoga Mat,4,654.68,2618.72,Upi
+ORD10664,2026-01-27,CUST1149,Rahul K,20.0,Female,Coimbatore,Beauty,Face Wash,5,306.67,1533.35,Upi
+ORD10665,2025-02-13,CUST1034,Rahul K,21.0,Female,Madurai,Electronics,Laptop,2,47634.04,95268.08,Net Banking
+ORD10666,2025-09-11,CUST1211,Divya M,18.0,Male,Coimbatore,Sports,Sports Shoes,3,2447.77,7343.31,Upi
+ORD10667,2025-09-29,CUST1033,Priya S,49.0,Female,Coimbatore,Beauty,Perfume,5,1332.66,6663.3,Card
+ORD10668,2025-05-25,CUST1142,Priya S,21.0,Male,Salem,Sports,Sports Shoes,3,2832.25,8496.75,Upi
+ORD10669,2026-01-03,CUST1249,Priya S,27.0,Female,Trichy,Home,Mixer,2,2973.23,5946.46,Upi
+ORD10670,2025-11-25,CUST1204,Rahul K,64.0,Male,Coimbatore,Home,Chair,2,3238.14,6476.28,Cash
+ORD10671,2025-04-27,CUST1107,Nisha T,53.0,Female,Coimbatore,Sports,Cricket Bat,5,2361.16,11805.8,Net Banking
+ORD10672,2026-02-02,CUST1162,Nisha T,36.0,Female,Coimbatore,Home,Chair,4,3479.03,13916.12,Card
+ORD10673,2025-11-24,CUST1016,Divya M,49.0,Male,Salem,Beauty,Skin Cream,2,576.68,1153.36,Net Banking
+ORD10674,2026-05-08,CUST1130,Meena R,51.0,Male,Salem,Home,Lamp,1,884.45,884.45,Net Banking
+ORD10675,2025-06-05,CUST1086,Karthik R,34.0,Male,Chennai,Beauty,Face Wash,3,322.86,968.58,Cash
+ORD10676,2026-02-06,CUST1123,Rahul K,49.0,Female,Coimbatore,Home,Cookware Set,1,2231.13,2231.13,Net Banking
+ORD10677,2026-07-27,CUST1107,Ajay Kumar,41.0,Female,Salem,Electronics,Laptop,2,50363.8,100727.6,Cash
+ORD10678,2025-12-18,CUST1034,Meena R,49.0,Male,Salem,Beauty,Perfume,3,1239.89,3719.67,Card
+ORD10679,2025-04-19,CUST1101,Vijay S,46.0,Male,Thanjavur,Sports,Sports Shoes,5,2710.0,13550.0,Upi
+ORD10680,2025-09-01,CUST1109,Sneha P,20.0,Male,Thanjavur,Electronics,Smartphone,5,18805.73,94028.65,Card
+ORD10681,2025-06-14,CUST1027,Divya M,40.0,Female,Thanjavur,Electronics,Laptop,2,55576.63,111153.26,Card
+ORD10682,2026-01-06,CUST1168,Priya S,40.0,Male,Salem,Clothing,Jacket,1,2441.53,2441.53,Net Banking
+ORD10683,2025-04-22,CUST1051,Divya M,28.0,Female,Chennai,Home,Cookware Set,3,2014.72,6044.16,Cash
+ORD10684,2026-06-28,CUST1148,Vijay S,39.0,Female,Madurai,Clothing,Jacket,3,2627.83,7883.49,Card
+ORD10685,2025-02-27,CUST1013,Meena R,46.0,Female,Madurai,Clothing,Shirt,4,1169.96,4679.84,Cash
+ORD10686,2026-05-12,CUST1153,Sneha P,34.0,Female,Coimbatore,Clothing,Jeans,4,1729.99,6919.96,Card
+ORD10687,2026-06-04,CUST1131,Rahul K,51.0,Female,Trichy,Sports,Yoga Mat,2,709.05,1418.1,Net Banking
+ORD10688,2025-08-20,CUST1153,Priya S,19.0,Female,Salem,Home,Cookware Set,3,2527.69,7583.07,Card
+ORD10689,2026-06-30,CUST1196,Vijay S,20.0,Male,Chennai,Home,Cookware Set,3,2352.55,7057.65,Cash
+ORD10690,2025-01-13,CUST1020,Ajay Kumar,54.0,Female,Coimbatore,Electronics,Headphones,2,1801.64,3603.28,Net Banking
+ORD10691,2025-11-14,CUST1014,Divya M,42.0,Male,Madurai,Beauty,Face Wash,1,301.02,301.02,Card
+ORD10692,2026-02-19,CUST1020,Rahul K,65.0,Male,Madurai,Electronics,Smartphone,1,17649.47,17649.47,Cash
+ORD10693,2025-10-12,CUST1014,Arun Kumar,37.0,Female,Chennai,Clothing,Jeans,3,1638.82,4916.46,Upi
+ORD10694,2025-05-05,CUST1160,Karthik R,43.0,Female,Coimbatore,Beauty,Face Wash,2,352.5,705.0,Card
+ORD10695,2025-05-30,CUST1248,Rahul K,37.0,Female,Trichy,Electronics,Headphones,1,1540.48,1540.48,Card
+ORD10696,2026-03-01,CUST1064,Karthik R,52.0,Female,Chennai,Sports,Sports Shoes,2,3216.36,6432.72,Cash
+ORD10697,2026-08-15,CUST1170,Ajay Kumar,26.0,Female,Salem,Clothing,Jacket,3,2929.35,8788.05,Upi
+ORD10698,2025-10-18,CUST1243,Ajay Kumar,49.0,Male,Thanjavur,Sports,Yoga Mat,2,844.23,1688.46,Upi
+ORD10699,2025-10-23,CUST1103,Meena R,42.0,Female,Trichy,Electronics,Smartphone,5,15736.17,78680.85,Net Banking
+ORD10700,2025-11-08,CUST1025,Ajay Kumar,50.0,Male,Thanjavur,Sports,Football,5,796.72,3983.6,Upi
+ORD10701,2026-04-29,CUST1024,Vijay S,19.0,Female,Thanjavur,Beauty,Perfume,1,1234.44,1234.44,Net Banking
+ORD10702,2025-02-06,CUST1187,Karthik R,54.0,Female,Coimbatore,Clothing,T-Shirt,4,689.25,2757.0,Card
+ORD10703,2025-03-10,CUST1022,Priya S,21.0,Female,Madurai,Electronics,Laptop,2,53053.78,106107.56,Upi
+ORD10704,2026-02-15,CUST1077,Arun Kumar,53.0,Male,Madurai,Electronics,Smartwatch,2,4070.33,8140.66,Upi
+ORD10705,2026-06-08,CUST1223,Priya S,64.0,Female,Madurai,Sports,Cricket Bat,3,2577.4,7732.2,Card
+ORD10706,2025-01-20,CUST1100,Meena R,51.0,Male,Trichy,Beauty,Hair Dryer,4,1818.48,7273.92,Upi
+ORD10707,2026-06-05,CUST1157,Vijay S,42.0,Female,Thanjavur,Home,Lamp,5,909.99,4549.95,Net Banking
+ORD10708,2025-11-02,CUST1106,Karthik R,39.0,Female,Coimbatore,Electronics,Laptop,3,55400.89,166202.67,Upi
+ORD10709,2026-04-26,CUST1071,Priya S,25.0,Male,Madurai,Sports,Cricket Bat,4,2380.19,9520.76,Cash
+ORD10710,2025-02-12,CUST1141,Rahul K,42.0,Female,Thanjavur,Electronics,Smartwatch,4,3866.15,15464.6,Card
+ORD10711,2026-06-17,CUST1128,Ajay Kumar,62.0,Female,Salem,Home,Cookware Set,4,2056.87,8227.48,Cash
+ORD10712,2026-05-05,CUST1007,Meena R,42.0,Female,Madurai,Clothing,Jeans,3,1740.68,5222.04,Card
+ORD10713,2026-06-02,CUST1220,Arun Kumar,42.0,Male,Thanjavur,Electronics,Smartwatch,4,4110.66,16442.64,Net Banking
+ORD10714,2026-02-25,CUST1245,Divya M,24.0,Female,Salem,Sports,Football,3,766.98,2300.94,Upi
+ORD10715,2025-04-04,CUST1250,Karthik R,45.0,Female,Thanjavur,Electronics,Smartwatch,5,5053.22,25266.1,Cash
+ORD10716,2025-02-09,CUST1191,Sneha P,42.0,Female,Madurai,Electronics,Smartphone,2,15704.58,31409.16,Card
+ORD10717,2025-12-20,CUST1075,Vijay S,57.0,Male,Coimbatore,Clothing,Jeans,1,1615.86,1615.86,Cash
+ORD10718,2025-07-30,CUST1051,Priya S,36.0,Female,Coimbatore,Electronics,Smartwatch,2,3841.49,7682.98,Card
+ORD10719,2026-01-12,CUST1220,Meena R,29.0,Male,Salem,Beauty,Hair Dryer,1,1710.38,1710.38,Net Banking
+ORD10720,2026-01-07,CUST1204,Meena R,18.0,Female,Salem,Clothing,T-Shirt,7,791.3,5539.1,Card
+ORD10721,2025-11-27,CUST1171,Arun Kumar,57.0,Male,Thanjavur,Home,Cookware Set,5,2278.24,11391.2,Cash
+ORD10722,2026-03-21,CUST1058,Nisha T,63.0,Male,Trichy,Clothing,T-Shirt,1,771.41,771.41,Net Banking
+ORD10723,2025-10-12,CUST1170,Arun Kumar,30.0,Male,Thanjavur,Clothing,T-Shirt,5,771.45,3857.25,Upi
+ORD10724,2026-05-02,CUST1005,Priya S,50.0,Female,Chennai,Beauty,Skin Cream,3,577.35,1732.05,Upi
+ORD10725,2026-07-24,CUST1114,Ajay Kumar,52.0,Female,Madurai,Home,Chair,2,3779.34,7558.68,Net Banking
+ORD10726,2025-02-11,CUST1147,Arun Kumar,41.0,Female,Coimbatore,Home,Mixer,5,3349.71,16748.55,Upi
+ORD10727,2025-07-08,CUST1157,Meena R,52.0,Male,Salem,Sports,Sports Shoes,7,2788.37,19518.59,Cash
+ORD10728,2026-08-11,CUST1150,Priya S,36.0,Male,Salem,Sports,Yoga Mat,5,805.06,4025.3,Cash
+ORD10729,2025-09-17,CUST1220,Priya S,37.0,Female,Chennai,Home,Mixer,7,2992.65,20948.55,Upi
+ORD10730,2025-04-12,CUST1183,Priya S,52.0,Female,Coimbatore,Sports,Yoga Mat,2,800.31,1600.62,Upi
+ORD10731,2025-07-12,CUST1055,Rahul K,23.0,Female,Trichy,Sports,Yoga Mat,4,688.14,2752.56,Net Banking
+ORD10732,2025-04-03,CUST1037,Sneha P,42.0,Male,Chennai,Home,Lamp,3,959.44,2878.32,Net Banking
+ORD10733,2026-01-28,CUST1137,Rahul K,47.0,Male,Madurai,Clothing,Jacket,2,2681.84,5363.68,Net Banking
+ORD10734,2026-04-12,CUST1195,Meena R,42.0,Male,Trichy,Clothing,T-Shirt,5,762.58,3812.9,Card
+ORD10735,2025-12-24,CUST1119,Divya M,35.0,Female,Salem,Beauty,Face Wash,5,394.02,1970.1,Upi
+ORD10736,2025-02-01,CUST1057,Priya S,48.0,Male,Thanjavur,Home,Lamp,4,965.47,3861.88,Net Banking
+ORD10737,2025-01-09,CUST1170,Sneha P,31.0,Male,Trichy,Sports,Yoga Mat,5,638.0,3190.0,Upi
+ORD10738,2025-05-18,CUST1064,Divya M,42.0,Male,Trichy,Home,Chair,2,3596.82,7193.64,Upi
+ORD10739,2025-01-18,CUST1202,Nisha T,56.0,Female,Chennai,Electronics,Smartphone,2,16963.89,33927.78,Card
+ORD10740,2025-12-07,CUST1096,Karthik R,32.0,Male,Madurai,Beauty,Skin Cream,1,714.1,714.1,Card
+ORD10741,2025-07-08,CUST1169,Nisha T,44.0,Male,Thanjavur,Home,Mixer,2,3562.8,7125.6,Card
+ORD10742,2025-10-21,CUST1184,Arun Kumar,24.0,Female,Trichy,Beauty,Face Wash,3,355.75,1067.25,Net Banking
+ORD10743,2026-02-01,CUST1059,Divya M,50.0,Male,Salem,Beauty,Skin Cream,5,655.46,3277.3,Cash
+ORD10744,2026-05-10,CUST1164,Rahul K,35.0,Male,Coimbatore,Clothing,T-Shirt,4,683.39,2733.56,Net Banking
+ORD10745,2025-04-01,CUST1091,Vijay S,65.0,Female,Thanjavur,Beauty,Perfume,5,1259.52,6297.6,Upi
+ORD10746,2025-06-17,CUST1020,Arun Kumar,62.0,Male,Chennai,Electronics,Smartwatch,5,4699.66,23498.3,Cash
+ORD10747,2025-05-23,CUST1106,Nisha T,39.0,Male,Thanjavur,Clothing,Jacket,5,3075.94,15379.7,Cash
+ORD10748,2025-05-25,CUST1155,Karthik R,33.0,Female,Coimbatore,Sports,Sports Shoes,4,3106.14,12424.56,Upi
+ORD10749,2025-11-17,CUST1217,Ajay Kumar,28.0,Male,Salem,Beauty,Face Wash,4,352.62,1410.48,Upi
+ORD10750,2025-08-03,CUST1006,Rahul K,28.0,Female,Chennai,Electronics,Laptop,1,51671.13,51671.13,Net Banking
+ORD10751,2025-10-01,CUST1197,Rahul K,18.0,Male,Madurai,Home,Mixer,4,3313.35,13253.4,Card
+ORD10752,2025-04-23,CUST1032,Divya M,54.0,Female,Salem,Beauty,Face Wash,5,376.91,1884.55,Cash
+ORD10753,2025-03-15,CUST1058,Divya M,49.0,Male,Thanjavur,Sports,Sports Shoes,5,2475.98,12379.9,Card
+ORD10754,2025-05-28,CUST1136,Rahul K,64.0,Female,Thanjavur,Beauty,Hair Dryer,5,1488.24,7441.2,Net Banking
+ORD10755,2025-12-01,CUST1242,Vijay S,58.0,Male,Thanjavur,Home,Chair,1,3735.4,3735.4,Cash
+ORD10756,2025-07-10,CUST1215,Rahul K,42.0,Female,Chennai,Beauty,Hair Dryer,4,1778.53,7114.12,Upi
+ORD10757,2026-06-04,CUST1026,Divya M,62.0,Male,Coimbatore,Electronics,Headphones,3,1606.37,4819.11,Upi
+ORD10758,2025-10-24,CUST1132,Karthik R,51.0,Female,Coimbatore,Home,Cookware Set,4,2104.64,8418.56,Card
+ORD10759,2025-06-20,CUST1120,Vijay S,29.0,Male,Madurai,Electronics,Headphones,3,1568.06,4704.18,Cash
+ORD10760,2026-03-24,CUST1130,Meena R,37.0,Male,Madurai,Clothing,Jeans,1,1729.48,1729.48,Cash
+ORD10761,2025-05-26,CUST1220,Ajay Kumar,22.0,Male,Trichy,Beauty,Hair Dryer,5,1584.86,7924.3,Cash
+ORD10762,2025-01-23,CUST1231,Sneha P,42.0,Male,Chennai,Sports,Sports Shoes,2,2845.16,5690.32,Net Banking
+ORD10763,2025-08-07,CUST1211,Priya S,32.0,Female,Thanjavur,Sports,Cricket Bat,7,2761.5,19330.5,Upi
+ORD10764,2025-02-15,CUST1166,Meena R,63.0,Female,Salem,Sports,Football,3,948.03,2844.09,Net Banking
+ORD10765,2026-04-07,CUST1107,Nisha T,21.0,Female,Coimbatore,Beauty,Skin Cream,3,651.12,1953.36,Net Banking
+ORD10766,2025-10-26,CUST1009,Karthik R,37.0,Male,Chennai,Sports,Cricket Bat,5,2672.36,13361.8,Net Banking
+ORD10767,2025-04-20,CUST1004,Divya M,39.0,Female,Madurai,Sports,Football,2,854.5,1709.0,Net Banking
+ORD10768,2026-01-27,CUST1187,Divya M,63.0,Female,Thanjavur,Beauty,Hair Dryer,2,1801.96,3603.92,Upi
+ORD10769,2026-08-07,CUST1108,Divya M,21.0,Female,Salem,Beauty,Perfume,1,1552.94,1552.94,Card
+ORD10770,2025-06-22,CUST1120,Sneha P,44.0,Male,Trichy,Sports,Football,3,801.73,2405.19,Cash
+ORD10771,2026-07-18,CUST1231,Ajay Kumar,42.0,Male,Trichy,Clothing,T-Shirt,4,729.1,2916.4,Cash
+ORD10772,2025-07-18,CUST1045,Karthik R,35.0,Male,Chennai,Clothing,Shirt,5,999.4,4997.0,Card
+ORD10773,2025-06-12,CUST1241,Arun Kumar,58.0,Male,Chennai,Beauty,Face Wash,3,365.59,1096.77,Cash
+ORD10774,2025-05-13,CUST1031,Arun Kumar,18.0,Male,Madurai,Electronics,Smartphone,5,16383.6,81918.0,Upi
+ORD10775,2026-08-20,CUST1049,Karthik R,54.0,Male,Thanjavur,Clothing,Jeans,3,1800.83,5402.49,Card
+ORD10776,2026-04-27,CUST1171,Priya S,49.0,Male,Salem,Clothing,Shirt,3,976.66,2929.98,Net Banking
+ORD10777,2025-03-06,CUST1113,Priya S,31.0,Female,Salem,Home,Cookware Set,1,2249.04,2249.04,Unknown
+ORD10778,2025-02-19,CUST1027,Rahul K,48.0,Female,Thanjavur,Home,Lamp,1,921.4,921.4,Card
+ORD10779,2025-06-14,CUST1113,Divya M,65.0,Male,Thanjavur,Clothing,Shirt,4,986.98,3947.92,Card
+ORD10780,2025-03-27,CUST1103,Priya S,51.0,Male,Salem,Electronics,Headphones,4,1590.14,6360.56,Net Banking
+ORD10781,2025-01-28,CUST1085,Meena R,55.0,Female,Coimbatore,Beauty,Hair Dryer,5,1832.64,9163.2,Card
+ORD10782,2025-09-29,CUST1194,Meena R,18.0,Male,Salem,Electronics,Laptop,2,57562.57,115125.14,Upi
+ORD10783,2026-05-28,CUST1096,Vijay S,38.0,Male,Coimbatore,Home,Chair,4,3394.95,13579.8,Card
+ORD10784,2026-04-11,CUST1246,Rahul K,54.0,Male,Thanjavur,Clothing,Jacket,5,3201.11,16005.55,Card
+ORD10785,2025-06-28,CUST1126,Rahul K,39.0,Male,Chennai,Clothing,T-Shirt,5,613.15,3065.75,Card
+ORD10786,2025-05-28,CUST1109,Nisha T,39.0,Female,Chennai,Home,Cookware Set,3,2273.85,6821.55,Upi
+ORD10787,2025-12-21,CUST1087,Priya S,38.0,Male,Coimbatore,Sports,Football,3,901.79,2705.37,Cash
+ORD10788,2026-01-03,CUST1192,Divya M,52.0,Female,Coimbatore,Beauty,Face Wash,5,304.87,1524.35,Card
+ORD10789,2025-09-04,CUST1101,Nisha T,23.0,Male,Trichy,Electronics,Headphones,4,1700.89,6803.56,Upi
+ORD10790,2026-03-24,CUST1047,Arun Kumar,34.0,Male,Coimbatore,Sports,Sports Shoes,2,2952.71,5905.42,Upi
+ORD10791,2025-05-16,CUST1092,Karthik R,44.0,Male,Coimbatore,Home,Mixer,1,3467.97,3467.97,Upi
+ORD10792,2026-01-06,CUST1230,Priya S,62.0,Male,Coimbatore,Home,Lamp,3,999.6,2998.8,Cash
+ORD10793,2025-10-17,CUST1054,Sneha P,40.0,Male,Trichy,Electronics,Laptop,1,58616.34,58616.34,Net Banking
+ORD10794,2026-07-14,CUST1216,Sneha P,41.0,Female,Chennai,Home,Mixer,5,3201.6,16008.0,Cash
+ORD10795,2025-06-13,CUST1022,Sneha P,53.0,Male,Trichy,Electronics,Laptop,4,54477.54,217910.16,Cash
+ORD10796,2025-08-27,CUST1005,Rahul K,63.0,Male,Salem,Electronics,Headphones,2,1532.38,3064.76,Upi
+ORD10797,2025-02-19,CUST1193,Vijay S,44.0,Male,Trichy,Home,Lamp,3,839.43,2518.29,Net Banking
+ORD10798,2025-12-18,CUST1238,Ajay Kumar,25.0,Male,Salem,Sports,Sports Shoes,2,3192.24,6384.48,Cash
+ORD10799,2026-02-15,CUST1204,Arun Kumar,54.0,Male,Thanjavur,Clothing,T-Shirt,1,698.13,698.13,Net Banking
+ORD10800,2025-04-19,CUST1112,Rahul K,50.0,Female,Trichy,Home,Lamp,2,815.63,1631.26,Net Banking
+ORD10801,2025-05-06,CUST1080,Rahul K,40.0,Female,Thanjavur,Home,Lamp,1,777.44,777.44,Cash
+ORD10802,2025-12-23,CUST1102,Sneha P,26.0,Female,Coimbatore,Electronics,Laptop,7,51005.45,357038.15,Cash
+ORD10803,2026-07-19,CUST1008,Arun Kumar,28.0,Male,Salem,Sports,Yoga Mat,2,733.81,1467.62,Cash
+ORD10804,2025-11-28,CUST1113,Karthik R,40.0,Female,Madurai,Sports,Yoga Mat,5,798.27,3991.35,Cash
+ORD10805,2025-08-30,CUST1244,Rahul K,58.0,Female,Salem,Sports,Football,2,813.31,1626.62,Net Banking
+ORD10806,2025-06-29,CUST1152,Meena R,26.0,Male,Salem,Electronics,Headphones,1,1898.44,1898.44,Net Banking
+ORD10807,2025-01-07,CUST1206,Priya S,18.0,Female,Madurai,Sports,Cricket Bat,3,2217.23,6651.69,Card
+ORD10808,2025-09-15,CUST1002,Divya M,46.0,Male,Chennai,Beauty,Face Wash,4,338.96,1355.84,Cash
+ORD10809,2026-04-11,CUST1093,Meena R,21.0,Female,Coimbatore,Home,Mixer,4,2913.62,11654.48,Upi
+ORD10810,2026-07-24,CUST1172,Vijay S,47.0,Male,Trichy,Sports,Cricket Bat,1,2472.29,2472.29,Card
+ORD10811,2026-06-16,CUST1235,Meena R,42.0,Female,Thanjavur,Sports,Yoga Mat,1,698.57,698.57,Upi
+ORD10812,2025-05-23,CUST1230,Vijay S,34.0,Male,Trichy,Home,Lamp,2,884.48,1768.96,Upi
+ORD10813,2025-12-17,CUST1073,Sneha P,56.0,Male,Trichy,Home,Chair,2,3520.28,7040.56,Cash
+ORD10814,2025-08-07,CUST1232,Sneha P,54.0,Female,Madurai,Clothing,Jeans,5,1431.87,7159.35,Card
+ORD10815,2026-05-23,CUST1028,Vijay S,42.0,Male,Trichy,Beauty,Hair Dryer,1,1500.62,1500.62,Net Banking
+ORD10816,2025-06-18,CUST1131,Karthik R,50.0,Female,Coimbatore,Clothing,T-Shirt,5,687.84,3439.2,Card
+ORD10817,2025-10-31,CUST1179,Meena R,52.0,Male,Trichy,Electronics,Smartphone,5,20099.45,100497.25,Card
+ORD10818,2026-06-12,CUST1248,Sneha P,34.0,Female,Trichy,Sports,Cricket Bat,5,2657.63,13288.15,Upi
+ORD10819,2025-05-11,CUST1055,Rahul K,19.0,Male,Thanjavur,Clothing,Jacket,3,2481.29,7443.87,Net Banking
+ORD10820,2026-05-04,CUST1030,Vijay S,46.0,Female,Chennai,Sports,Football,1,967.18,967.18,Card
+ORD10821,2025-04-07,CUST1144,Ajay Kumar,49.0,Male,Coimbatore,Sports,Football,4,839.46,3357.84,Card
+ORD10822,2025-10-18,CUST1091,Karthik R,43.0,Female,Thanjavur,Sports,Cricket Bat,4,2662.5,10650.0,Cash
+ORD10823,2025-05-31,CUST1162,Priya S,55.0,Male,Thanjavur,Beauty,Hair Dryer,2,1766.82,3533.64,Cash
+ORD10824,2025-04-23,CUST1096,Arun Kumar,29.0,Male,Trichy,Sports,Yoga Mat,3,830.63,2491.89,Unknown
+ORD10825,2026-04-26,CUST1119,Meena R,56.0,Female,Trichy,Sports,Yoga Mat,3,771.42,2314.26,Cash
+ORD10826,2026-03-22,CUST1220,Nisha T,48.0,Male,Thanjavur,Home,Mixer,2,2948.39,5896.78,Upi
+ORD10827,2025-05-26,CUST1169,Meena R,28.0,Male,Salem,Home,Cookware Set,3,2108.2,6324.6,Upi
+ORD10828,2025-05-27,CUST1086,Arun Kumar,18.0,Male,Chennai,Electronics,Laptop,3,47876.26,143628.78,Card
+ORD10829,2026-01-08,CUST1203,Arun Kumar,26.0,Male,Salem,Home,Mixer,4,3321.59,13286.36,Net Banking
+ORD10830,2025-09-05,CUST1129,Karthik R,54.0,Female,Coimbatore,Sports,Yoga Mat,3,742.15,2226.45,Net Banking
+ORD10831,2025-05-15,CUST1200,Priya S,29.0,Male,Coimbatore,Electronics,Smartwatch,4,4244.5,16978.0,Card
+ORD10832,2025-04-24,CUST1063,Priya S,39.0,Male,Madurai,Beauty,Skin Cream,3,731.78,2195.34,Net Banking
+ORD10833,2025-08-02,CUST1080,Karthik R,62.0,Male,Thanjavur,Clothing,Jacket,3,2880.22,8640.66,Card
+ORD10834,2026-01-05,CUST1131,Vijay S,30.0,Female,Trichy,Sports,Football,3,823.9,2471.7,Upi
+ORD10835,2025-09-21,CUST1172,Vijay S,58.0,Female,Salem,Sports,Cricket Bat,4,2705.52,10822.08,Card
+ORD10836,2025-11-16,CUST1242,Meena R,54.0,Male,Chennai,Clothing,T-Shirt,4,637.92,2551.68,Card
+ORD10837,2025-10-20,CUST1240,Rahul K,46.0,Female,Madurai,Sports,Yoga Mat,4,772.69,3090.76,Net Banking
+ORD10838,2026-01-13,CUST1082,Vijay S,55.0,Male,Madurai,Home,Cookware Set,3,2289.11,6867.33,Card
+ORD10839,2025-01-16,CUST1213,Ajay Kumar,21.0,Male,Salem,Beauty,Skin Cream,3,553.95,1661.85,Cash
+ORD10840,2025-04-29,CUST1192,Priya S,44.0,Female,Thanjavur,Clothing,Jacket,2,3132.41,6264.82,Net Banking
+ORD10841,2025-04-01,CUST1139,Divya M,38.0,Male,Chennai,Electronics,Smartphone,2,17007.66,34015.32,Net Banking
+ORD10842,2026-05-14,CUST1160,Nisha T,56.0,Male,Thanjavur,Home,Mixer,5,2872.75,14363.75,Card
+ORD10843,2025-03-14,CUST1138,Karthik R,20.0,Female,Salem,Home,Chair,4,3832.66,15330.64,Cash
+ORD10844,2025-02-03,CUST1182,Priya S,61.0,Male,Madurai,Sports,Yoga Mat,3,675.44,2026.32,Card
+ORD10845,2025-11-04,CUST1011,Divya M,36.0,Male,Coimbatore,Clothing,Shirt,2,1140.78,2281.56,Cash
+ORD10846,2025-07-26,CUST1236,Sneha P,46.0,Female,Trichy,Clothing,Jeans,3,1577.32,4731.96,Upi
+ORD10847,2025-03-31,CUST1229,Meena R,58.0,Male,Madurai,Clothing,Jeans,3,1528.0,4584.0,Cash
+ORD10848,2025-01-31,CUST1021,Rahul K,42.0,Female,Thanjavur,Home,Lamp,2,1016.93,2033.86,Card
+ORD10849,2025-06-24,CUST1005,Meena R,58.0,Male,Madurai,Beauty,Hair Dryer,5,1655.24,8276.2,Card
+ORD10850,2025-11-30,CUST1226,Vijay S,47.0,Female,Thanjavur,Electronics,Smartwatch,1,4755.66,4755.66,Net Banking
+ORD10851,2025-06-26,CUST1220,Vijay S,53.0,Female,Coimbatore,Clothing,Jacket,5,2399.15,11995.75,Card
+ORD10852,2025-06-22,CUST1172,Ajay Kumar,34.0,Male,Madurai,Sports,Cricket Bat,5,2507.49,12537.45,Cash
+ORD10853,2026-07-16,CUST1007,Nisha T,26.0,Female,Salem,Beauty,Hair Dryer,2,1504.52,3009.04,Net Banking
+ORD10854,2025-10-31,CUST1140,Divya M,23.0,Male,Coimbatore,Sports,Cricket Bat,3,2591.97,7775.91,Cash
+ORD10855,2025-01-26,CUST1031,Karthik R,55.0,Female,Trichy,Beauty,Skin Cream,3,638.2,1914.6,Net Banking
+ORD10856,2025-04-16,CUST1083,Rahul K,35.0,Female,Thanjavur,Electronics,Laptop,5,47624.26,238121.3,Cash
+ORD10857,2025-01-24,CUST1086,Ajay Kumar,52.0,Female,Chennai,Home,Mixer,2,2938.3,5876.6,Cash
+ORD10858,2026-07-12,CUST1081,Ajay Kumar,21.0,Female,Salem,Home,Lamp,4,854.42,3417.68,Card
+ORD10859,2025-06-16,CUST1037,Arun Kumar,65.0,Male,Trichy,Home,Cookware Set,4,2304.57,9218.28,Upi
+ORD10860,2025-01-03,CUST1132,Sneha P,32.0,Male,Chennai,Electronics,Smartphone,2,17053.66,34107.32,Card
+ORD10861,2026-07-18,CUST1217,Rahul K,47.0,Female,Coimbatore,Sports,Sports Shoes,3,2485.55,7456.65,Cash
+ORD10862,2026-03-24,CUST1221,Divya M,48.0,Female,Thanjavur,Home,Lamp,2,798.52,1597.04,Cash
+ORD10863,2025-01-29,CUST1223,Arun Kumar,29.0,Male,Trichy,Beauty,Hair Dryer,5,1533.94,7669.7,Upi
+ORD10864,2025-11-13,CUST1138,Divya M,46.0,Male,Coimbatore,Electronics,Headphones,5,1885.26,9426.3,Cash
+ORD10865,2026-06-04,CUST1183,Sneha P,39.0,Female,Coimbatore,Clothing,T-Shirt,1,599.76,599.76,Cash
+ORD10866,2026-02-13,CUST1042,Vijay S,23.0,Female,Chennai,Beauty,Skin Cream,2,576.37,1152.74,Net Banking
+ORD10867,2025-07-26,CUST1053,Sneha P,65.0,Male,Coimbatore,Beauty,Face Wash,2,376.6,753.2,Upi
+ORD10868,2025-10-03,CUST1161,Arun Kumar,65.0,Male,Madurai,Sports,Cricket Bat,2,2252.59,4505.18,Net Banking
+ORD10869,2025-02-13,CUST1218,Karthik R,24.0,Male,Salem,Electronics,Smartphone,4,17736.42,70945.68,Net Banking
+ORD10870,2025-09-27,CUST1153,Arun Kumar,34.0,Male,Chennai,Clothing,Jeans,3,1540.05,4620.15,Upi
+ORD10871,2025-12-03,CUST1109,Priya S,38.0,Male,Salem,Home,Mixer,2,2814.81,5629.62,Card
+ORD10872,2025-01-03,CUST1023,Karthik R,64.0,Female,Chennai,Sports,Cricket Bat,1,2269.73,2269.73,Net Banking
+ORD10873,2025-09-01,CUST1149,Vijay S,52.0,Male,Coimbatore,Clothing,Jeans,2,1701.99,3403.98,Upi
+ORD10874,2025-12-05,CUST1244,Karthik R,23.0,Male,Unknown,Beauty,Face Wash,4,312.06,1248.24,Card
+ORD10875,2026-01-27,CUST1105,Karthik R,44.0,Male,Salem,Sports,Football,5,902.54,4512.7,Net Banking
+ORD10876,2025-02-07,CUST1010,Ajay Kumar,39.0,Female,Trichy,Electronics,Laptop,4,48226.7,192906.8,Net Banking
+ORD10877,2025-09-11,CUST1130,Priya S,65.0,Female,Coimbatore,Sports,Yoga Mat,2,733.49,1466.98,Cash
+ORD10878,2026-06-16,CUST1065,Arun Kumar,53.0,Male,Thanjavur,Home,Mixer,5,3073.73,15368.65,Net Banking
+ORD10879,2025-10-22,CUST1165,Ajay Kumar,46.0,Female,Thanjavur,Electronics,Smartwatch,1,5116.06,5116.06,Net Banking
+ORD10880,2026-03-30,CUST1233,Meena R,53.0,Male,Trichy,Home,Lamp,5,920.88,4604.4,Cash
+ORD10881,2025-07-01,CUST1045,Divya M,63.0,Male,Salem,Beauty,Hair Dryer,2,1947.94,3895.88,Upi
+ORD10882,2025-11-29,CUST1126,Vijay S,53.0,Male,Trichy,Electronics,Smartwatch,4,4239.63,16958.52,Card
+ORD10883,2026-02-05,CUST1248,Sneha P,31.0,Female,Trichy,Home,Cookware Set,2,2373.19,4746.38,Upi
+ORD10884,2025-02-25,CUST1019,Vijay S,54.0,Female,Trichy,Clothing,Jeans,5,1625.93,8129.65,Card
+ORD10885,2026-01-15,CUST1147,Karthik R,64.0,Male,Thanjavur,Electronics,Smartphone,2,20692.96,41385.92,Card
+ORD10886,2025-05-31,CUST1072,Vijay S,51.0,Male,Chennai,Clothing,Jeans,5,1526.54,7632.7,Card
+ORD10887,2026-07-05,CUST1191,Divya M,41.0,Male,Salem,Home,Mixer,1,3110.61,3110.61,Cash
+ORD10888,2025-01-25,CUST1134,Priya S,62.0,Female,Coimbatore,Sports,Sports Shoes,2,2502.03,5004.06,Net Banking
+ORD10889,2025-07-26,CUST1066,Meena R,31.0,Male,Madurai,Beauty,Face Wash,1,377.91,377.91,Upi
+ORD10890,2026-04-11,CUST1181,Vijay S,30.0,Female,Coimbatore,Home,Lamp,2,952.67,1905.34,Card
+ORD10891,2025-01-26,CUST1178,Sneha P,42.0,Male,Madurai,Sports,Football,4,999.56,3998.24,Upi
+ORD10892,2026-03-26,CUST1191,Karthik R,40.0,Female,Madurai,Beauty,Skin Cream,4,682.4,2729.6,Net Banking
+ORD10893,2026-01-26,CUST1074,Nisha T,48.0,Female,Coimbatore,Home,Chair,4,3924.58,15698.32,Card
+ORD10894,2026-05-07,CUST1008,Arun Kumar,58.0,Male,Salem,Beauty,Face Wash,2,365.18,730.36,Net Banking
+ORD10895,2026-07-26,CUST1098,Meena R,20.0,Female,Chennai,Home,Cookware Set,3,2152.38,6457.14,Card
+ORD10896,2026-08-22,CUST1148,Sneha P,21.0,Female,Trichy,Home,Mixer,3,2749.01,8247.03,Cash
+ORD10897,2026-03-09,CUST1147,Ajay Kumar,27.0,Male,Salem,Clothing,Jeans,4,1463.87,5855.48,Cash
+ORD10898,2025-04-24,CUST1014,Meena R,49.0,Male,Coimbatore,Sports,Sports Shoes,5,2579.91,12899.55,Upi
+ORD10899,2026-07-13,CUST1110,Divya M,57.0,Female,Chennai,Home,Lamp,2,916.71,1833.42,Card
+ORD10900,2025-09-04,CUST1075,Divya M,35.0,Female,Chennai,Electronics,Laptop,4,49070.01,196280.04,Upi
+ORD10901,2025-05-01,CUST1185,Priya S,23.0,Female,Madurai,Home,Chair,2,3378.42,6756.84,Cash
+ORD10902,2025-04-09,CUST1126,Ajay Kumar,61.0,Male,Chennai,Home,Lamp,1,826.16,826.16,Net Banking
+ORD10903,2025-04-24,CUST1075,Rahul K,34.0,Male,Chennai,Beauty,Face Wash,3,373.87,1121.61,Net Banking
+ORD10904,2025-08-01,CUST1250,Rahul K,54.0,Female,Chennai,Home,Mixer,1,3089.4,3089.4,Upi
+ORD10905,2026-01-23,CUST1075,Ajay Kumar,49.0,Female,Chennai,Sports,Sports Shoes,1,3178.55,3178.55,Cash
+ORD10906,2025-09-23,CUST1080,Rahul K,35.0,Female,Coimbatore,Electronics,Laptop,1,54465.3,54465.3,Upi
+ORD10907,2025-05-03,CUST1191,Priya S,21.0,Male,Madurai,Home,Cookware Set,3,2493.01,7479.03,Net Banking
+ORD10908,2026-03-20,CUST1119,Karthik R,29.0,Female,Madurai,Electronics,Smartwatch,1,5121.72,5121.72,Card
+ORD10909,2025-09-25,CUST1010,Sneha P,42.0,Female,Unknown,Beauty,Skin Cream,4,553.64,2214.56,Upi
+ORD10910,2025-11-15,CUST1005,Vijay S,38.0,Male,Chennai,Sports,Sports Shoes,4,2529.73,10118.92,Upi
+ORD10911,2025-03-08,CUST1188,Meena R,32.0,Male,Unknown,Beauty,Skin Cream,4,573.21,2292.84,Net Banking
+ORD10912,2025-03-26,CUST1168,Arun Kumar,42.0,Female,Trichy,Electronics,Smartwatch,3,4524.81,13574.43,Upi
+ORD10913,2025-05-05,CUST1015,Priya S,62.0,Male,Chennai,Beauty,Hair Dryer,4,1793.28,7173.12,Card
+ORD10914,2026-08-23,CUST1023,Arun Kumar,36.0,Male,Thanjavur,Home,Chair,4,3002.22,12008.88,Card
+ORD10915,2026-07-02,CUST1205,Priya S,48.0,Male,Chennai,Electronics,Smartwatch,2,5013.71,10027.42,Cash
+ORD10916,2026-02-02,CUST1210,Divya M,40.0,Female,Madurai,Home,Lamp,5,829.03,4145.15,Card
+ORD10917,2025-07-03,CUST1139,Karthik R,58.0,Male,Coimbatore,Sports,Sports Shoes,2,2399.76,4799.52,Cash
+ORD10918,2026-01-11,CUST1133,Divya M,19.0,Male,Madurai,Beauty,Perfume,3,1557.46,4672.38,Card
+ORD10919,2025-12-21,CUST1167,Sneha P,22.0,Male,Salem,Sports,Sports Shoes,1,2464.96,2464.96,Card
+ORD10920,2026-08-12,CUST1121,Priya S,39.0,Male,Trichy,Clothing,T-Shirt,2,631.97,1263.94,Cash
+ORD10921,2025-05-30,CUST1113,Vijay S,20.0,Male,Thanjavur,Beauty,Face Wash,2,342.59,685.18,Net Banking
+ORD10922,2025-04-29,CUST1221,Ajay Kumar,53.0,Male,Madurai,Sports,Football,1,1022.73,1022.73,Net Banking
+ORD10923,2025-07-28,CUST1095,Meena R,39.0,Male,Coimbatore,Sports,Yoga Mat,5,826.41,4132.05,Cash
+ORD10924,2025-01-01,CUST1166,Sneha P,18.0,Female,Madurai,Home,Lamp,4,1024.69,4098.76,Cash
+ORD10925,2025-06-24,CUST1178,Vijay S,54.0,Female,Chennai,Electronics,Headphones,3,2054.65,6163.95,Card
+ORD10926,2025-02-08,CUST1155,Priya S,28.0,Female,Coimbatore,Sports,Football,5,859.56,4297.8,Net Banking
+ORD10927,2025-07-19,CUST1074,Priya S,30.0,Female,Coimbatore,Sports,Football,3,946.0,2838.0,Card
+ORD10928,2025-04-15,CUST1189,Karthik R,47.0,Female,Thanjavur,Beauty,Perfume,2,1581.75,3163.5,Upi
+ORD10929,2026-06-12,CUST1204,Arun Kumar,50.0,Female,Madurai,Beauty,Perfume,3,1252.17,3756.51,Net Banking
+ORD10930,2025-03-18,CUST1150,Vijay S,29.0,Female,Salem,Sports,Football,1,1030.2,1030.2,Net Banking
+ORD10931,2025-08-19,CUST1239,Meena R,53.0,Female,Madurai,Home,Chair,3,3315.56,9946.68,Net Banking
+ORD10932,2025-06-26,CUST1236,Vijay S,37.0,Male,Trichy,Clothing,Jacket,1,2791.2,2791.2,Net Banking
+ORD10933,2025-01-06,CUST1061,Vijay S,50.0,Female,Chennai,Clothing,Jacket,3,2858.67,8576.01,Card
+ORD10934,2025-10-12,CUST1103,Arun Kumar,31.0,Female,Madurai,Electronics,Headphones,3,1817.09,5451.27,Net Banking
+ORD10935,2025-11-30,CUST1119,Sneha P,44.0,Male,Coimbatore,Home,Chair,3,3035.43,9106.29,Cash
+ORD10936,2026-03-03,CUST1232,Vijay S,39.0,Female,Thanjavur,Beauty,Perfume,3,1310.5,3931.5,Upi
+ORD10937,2026-05-17,CUST1245,Arun Kumar,48.0,Male,Coimbatore,Electronics,Laptop,1,53647.23,53647.23,Card
+ORD10938,2026-01-04,CUST1220,Vijay S,34.0,Female,Trichy,Home,Chair,1,2985.92,2985.92,Net Banking
+ORD10939,2025-07-02,CUST1182,Priya S,64.0,Male,Chennai,Electronics,Smartphone,4,17574.88,70299.52,Upi
+ORD10940,2026-02-06,CUST1027,Meena R,41.0,Male,Coimbatore,Sports,Cricket Bat,3,2321.93,6965.79,Cash
+ORD10941,2026-04-24,CUST1014,Divya M,30.0,Female,Salem,Electronics,Laptop,1,56429.64,56429.64,Upi
+ORD10942,2025-02-18,CUST1071,Priya S,65.0,Female,Chennai,Beauty,Skin Cream,5,637.25,3186.25,Card
+ORD10943,2025-08-05,CUST1241,Karthik R,42.0,Female,Salem,Beauty,Skin Cream,1,608.8,608.8,Net Banking
+ORD10944,2026-03-25,CUST1131,Arun Kumar,31.0,Female,Chennai,Electronics,Smartphone,4,17560.07,70240.28,Upi
+ORD10945,2026-02-22,CUST1150,Ajay Kumar,34.0,Female,Salem,Electronics,Smartphone,5,16688.57,83442.85,Net Banking
+ORD10946,2026-06-06,CUST1158,Sneha P,28.0,Female,Trichy,Sports,Yoga Mat,3,718.88,2156.64,Net Banking
+ORD10947,2025-12-13,CUST1097,Divya M,58.0,Female,Trichy,Home,Mixer,5,3444.25,17221.25,Card
+ORD10948,2025-12-17,CUST1209,Arun Kumar,54.0,Male,Trichy,Sports,Cricket Bat,4,2440.43,9761.72,Upi
+ORD10949,2026-06-20,CUST1022,Priya S,29.0,Female,Trichy,Sports,Sports Shoes,1,2838.34,2838.34,Net Banking
+ORD10950,2025-06-24,CUST1147,Nisha T,50.0,Female,Trichy,Electronics,Headphones,1,1596.9,1596.9,Upi
+ORD10951,2025-02-28,CUST1240,Meena R,49.0,Female,Coimbatore,Clothing,Shirt,1,955.88,955.88,Card
+ORD10952,2026-05-19,CUST1156,Vijay S,44.0,Female,Thanjavur,Sports,Sports Shoes,3,2428.4,7285.2,Cash
+ORD10953,2026-02-16,CUST1101,Priya S,42.0,Female,Coimbatore,Clothing,Shirt,5,969.37,4846.85,Net Banking
+ORD10954,2025-03-02,CUST1083,Arun Kumar,32.0,Male,Salem,Electronics,Smartphone,5,19422.29,97111.45,Net Banking
+ORD10955,2026-06-13,CUST1250,Divya M,37.0,Female,Coimbatore,Sports,Sports Shoes,4,2926.43,11705.72,Card
+ORD10956,2026-06-16,CUST1192,Ajay Kumar,54.0,Male,Madurai,Electronics,Laptop,3,54820.83,164462.49,Net Banking
+ORD10957,2026-02-05,CUST1043,Divya M,29.0,Female,Chennai,Sports,Yoga Mat,5,843.16,4215.8,Cash
+ORD10958,2026-06-23,CUST1127,Arun Kumar,18.0,Male,Thanjavur,Sports,Sports Shoes,2,2951.25,5902.5,Net Banking
+ORD10959,2026-08-04,CUST1190,Divya M,32.0,Female,Coimbatore,Home,Cookware Set,1,1894.29,1894.29,Net Banking
+ORD10960,2026-01-01,CUST1188,Rahul K,38.0,Male,Chennai,Electronics,Smartphone,2,16071.5,32143.0,Upi
+ORD10961,2026-07-01,CUST1086,Nisha T,57.0,Male,Salem,Beauty,Perfume,2,1502.75,3005.5,Card
+ORD10962,2026-01-05,CUST1209,Meena R,57.0,Female,Chennai,Sports,Football,5,859.92,4299.6,Net Banking
+ORD10963,2025-11-13,CUST1092,Arun Kumar,51.0,Female,Salem,Sports,Cricket Bat,5,2292.58,11462.9,Cash
+ORD10964,2025-02-22,CUST1216,Nisha T,26.0,Male,Chennai,Clothing,Jacket,5,3216.24,16081.2,Net Banking
+ORD10965,2026-03-19,CUST1243,Ajay Kumar,55.0,Female,Thanjavur,Home,Mixer,1,3564.06,3564.06,Card
+ORD10966,2026-02-19,CUST1043,Priya S,61.0,Female,Chennai,Beauty,Hair Dryer,1,1512.55,1512.55,Cash
+ORD10967,2026-06-29,CUST1143,Divya M,60.0,Male,Salem,Beauty,Skin Cream,4,681.12,2724.48,Cash
+ORD10968,2025-12-05,CUST1085,Meena R,60.0,Female,Salem,Beauty,Hair Dryer,4,1704.47,6817.88,Net Banking
+ORD10969,2026-03-29,CUST1195,Arun Kumar,48.0,Female,Trichy,Clothing,T-Shirt,2,702.89,1405.78,Cash
+ORD10970,2026-04-22,CUST1105,Karthik R,34.0,Male,Coimbatore,Home,Chair,4,3290.26,13161.04,Card
+ORD10971,2026-05-23,CUST1029,Priya S,39.0,Male,Madurai,Home,Chair,2,3731.96,7463.92,Upi
+ORD10972,2025-05-29,CUST1130,Meena R,36.0,Female,Thanjavur,Home,Chair,4,3526.66,14106.64,Card
+ORD10973,2026-01-28,CUST1058,Arun Kumar,61.0,Female,Thanjavur,Sports,Football,2,913.36,1826.72,Cash
+ORD10974,2025-04-30,CUST1235,Divya M,47.0,Male,Trichy,Sports,Football,1,866.79,866.79,Cash
+ORD10975,2026-06-18,CUST1219,Karthik R,42.0,Male,Thanjavur,Electronics,Laptop,1,58884.97,58884.97,Net Banking
+ORD10976,2026-06-03,CUST1241,Karthik R,38.0,Male,Trichy,Beauty,Hair Dryer,5,1457.09,7285.45,Net Banking
+ORD10977,2025-11-05,CUST1234,Karthik R,42.0,Female,Trichy,Sports,Yoga Mat,4,762.25,3049.0,Upi
+ORD10978,2026-03-17,CUST1145,Divya M,35.0,Female,Madurai,Clothing,Jacket,4,2945.34,11781.36,Cash
+ORD10979,2025-04-28,CUST1140,Karthik R,45.0,Male,Madurai,Electronics,Smartphone,2,18740.39,37480.78,Upi
+ORD10980,2025-10-14,CUST1110,Priya S,19.0,Female,Thanjavur,Electronics,Smartphone,1,18579.88,18579.88,Card
+ORD10981,2025-05-15,CUST1179,Nisha T,35.0,Male,Madurai,Clothing,Jeans,2,1736.9,3473.8,Upi
+ORD10982,2025-04-05,CUST1241,Unknown,23.0,Female,Thanjavur,Clothing,Jeans,3,1764.53,5293.59,Cash
+ORD10983,2026-05-24,CUST1175,Meena R,32.0,Male,Chennai,Clothing,Jacket,3,2403.14,7209.42,Net Banking
+ORD10984,2025-02-06,CUST1136,Arun Kumar,51.0,Male,Salem,Home,Chair,5,3849.91,19249.55,Net Banking
+ORD10985,2026-06-13,CUST1035,Vijay S,45.0,Male,Salem,Sports,Football,2,936.57,1873.14,Upi
+ORD10986,2025-03-04,CUST1139,Karthik R,48.0,Male,Trichy,Beauty,Hair Dryer,3,1714.8,5144.4,Cash
+ORD10987,2026-04-12,CUST1061,Karthik R,43.0,Male,Salem,Beauty,Hair Dryer,5,1888.09,9440.45,Upi
+ORD10988,2025-07-01,CUST1120,Priya S,42.0,Female,Salem,Electronics,Headphones,5,1833.21,9166.05,Unknown
+ORD10989,2025-01-28,CUST1161,Karthik R,58.0,Male,Unknown,Beauty,Hair Dryer,2,1951.15,3902.3,Upi
+ORD10990,2025-11-28,CUST1142,Divya M,48.0,Female,Thanjavur,Electronics,Laptop,2,47941.04,95882.08,Net Banking
+ORD10991,2025-12-23,CUST1094,Ajay Kumar,60.0,Male,Madurai,Clothing,Jacket,4,2504.09,10016.36,Card
+ORD10992,2026-02-05,CUST1193,Vijay S,61.0,Male,Coimbatore,Electronics,Smartphone,3,17289.2,51867.6,Card
+ORD10993,2025-01-28,CUST1053,Vijay S,56.0,Female,Chennai,Home,Lamp,5,881.16,4405.8,Upi
+ORD10994,2025-07-05,CUST1020,Priya S,65.0,Male,Chennai,Home,Chair,2,2990.16,5980.32,Card
+ORD10995,2025-05-25,CUST1035,Karthik R,34.0,Female,Trichy,Sports,Yoga Mat,2,811.38,1622.76,Net Banking
+ORD10996,2025-01-29,CUST1119,Nisha T,26.0,Female,Salem,Clothing,Jeans,2,1617.01,3234.02,Upi
+ORD10997,2025-07-26,CUST1004,Vijay S,61.0,Female,Chennai,Beauty,Hair Dryer,2,1526.74,3053.48,Cash
+ORD10998,2025-07-21,CUST1170,Divya M,45.0,Male,Madurai,Clothing,Shirt,4,1155.14,4620.56,Card
+ORD10999,2025-10-17,CUST1121,Vijay S,50.0,Male,Madurai,Home,Cookware Set,5,1941.43,9707.15,Net Banking
+ORD11000,2025-08-14,CUST1235,Ajay Kumar,21.0,Female,Madurai,Sports,Yoga Mat,1,768.15,768.15,Upi
