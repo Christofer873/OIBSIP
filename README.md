@@ -64,6 +64,32 @@ Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, and Jupyter Notebook.
 2. Encourage Regular Customers with bundles, limited-time offers, and loyalty programs.
 3. Re-engage At-Risk Customers with personalized reminders and targeted comeback offers.
 
+## Task 3 - Data Cleaning
+
+### Objective
+Improve data quality by identifying and resolving missing values, duplicate records, inconsistent formatting, incorrect data types, and numerical outliers.
+
+### Tools
+Python, pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
+
+### Data Cleaning Performed
+- Inspected dataset structure, data types, missing values, and duplicates
+- Removed duplicate transaction records
+- Handled missing categorical and numerical values using appropriate strategies
+- Standardized Gender, City, and Payment Method formatting
+- Converted mixed date formats into a consistent datetime format
+- Cleaned and converted Unit Price into numeric format
+- Detected Age and Quantity outliers using the IQR method
+- Replaced invalid Age outliers using the median
+- Capped extreme Quantity values using the IQR upper bound
+- Used Z-score analysis to identify potential high-value transaction outliers
+- Recalculated Total Amount after Quantity treatment
+- Compared data quality before and after cleaning
+- Exported the final cleaned dataset
+
+### Result
+The final dataset contains 1,000 cleaned transaction records with no missing values or duplicate rows and is ready for further analysis and reporting.
+
 ### Project Structure
 OIBSIP
 - README.md
@@ -74,6 +100,10 @@ OIBSIP
   - Task2_Customer_Segmentation.ipynb
   - Oasis_Task2_Customer_Segmentation_Dataset.csv
   - Customer_Segmentation_Results.csv
+- Task3_Data_Cleaning
+  - Task3_Data_Cleaning.ipynb
+  - Oasis_Task3_Messy_Sales_Dataset.csv
+  - Oasis_Task3_Cleaned_Sales_Dataset.csv
 
 The notebooks contain the complete analyses, visualizations, observations, recommendations, and conclusions.
 
